@@ -1,0 +1,9 @@
+{{/* Consultancy CTA banner — include in article templates to promote 1-on-1 consultations */}}
+{{ if ne .Params.slug "consultancy" }}
+<aside class="consultancy-cta">
+  <div class="container">
+    <p><strong>Need personal guidance?</strong> Book a 1-on-1 consultation with someone who's been through it. <strong>€75/hour.</strong></p>
+    <a href="/consultancy/" class="btn btn-primary">Learn More</a>
+  </div>
+</aside>
+{{ end }}

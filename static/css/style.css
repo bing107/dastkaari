@@ -641,6 +641,17 @@ section:not(.hero) .btn-outline:hover {
   .article-body-container .newsletter-section { margin: 2.5rem 0; }
 }
 
+/* --- Consultancy CTA --- */
+.consultancy-cta {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  background: var(--gold-light);
+  border-left: 4px solid var(--gold);
+  border-radius: var(--radius);
+}
+.consultancy-cta p { margin-bottom: 0.8rem; font-size: 0.95rem; }
+.consultancy-cta .btn { font-size: 0.85rem; padding: 0.5rem 1.2rem; }
+
 /* --- Social Share --- */
 .social-share {
   margin-top: 2rem;
