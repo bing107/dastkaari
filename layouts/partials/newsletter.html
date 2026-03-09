@@ -1,0 +1,14 @@
+{{/* Newsletter signup — works with any provider. Set formAction in hugo.toml params */}}
+{{ with .Site.Params.newsletterFormAction }}
+<aside class="newsletter-box">
+  <div class="newsletter-content">
+    <h3>Get Our Free Guide Straight to Your Inbox</h3>
+    <p>Join Pakistani professionals who receive our best tips on moving to and thriving in Germany. No spam — just practical advice.</p>
+    <form action="{{ . }}" method="POST" class="newsletter-form">
+      <input type="email" name="email" placeholder="Your email address" required aria-label="Email address">
+      <button type="submit" class="btn btn-primary">Subscribe</button>
+    </form>
+    <p class="newsletter-privacy">We respect your privacy. Unsubscribe anytime. See our <a href="/privacy/">Privacy Policy</a>.</p>
+  </div>
+</aside>
+{{ end }}

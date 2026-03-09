@@ -592,6 +592,44 @@ section:not(.hero) .btn-outline:hover {
   .tool-card { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
 }
 
+/* --- Newsletter --- */
+.newsletter-box {
+  background: linear-gradient(135deg, var(--green) 0%, var(--green-dark) 100%);
+  color: #fff;
+  border-radius: var(--radius);
+  padding: 2rem 1.5rem;
+  margin: 2.5rem 0;
+  text-align: center;
+}
+.newsletter-box h3 { font-size: 1.25rem; margin-bottom: 0.5rem; }
+.newsletter-content > p { opacity: 0.9; font-size: 0.92rem; margin-bottom: 1.25rem; }
+.newsletter-form {
+  display: flex;
+  gap: 0.5rem;
+  max-width: 480px;
+  margin: 0 auto;
+}
+.newsletter-form input[type="email"] {
+  flex: 1;
+  padding: 0.7rem 1rem;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+  font-family: var(--font-sans);
+}
+.newsletter-form input[type="email"]:focus { outline: 2px solid var(--gold); }
+.newsletter-form .btn { white-space: nowrap; }
+.newsletter-privacy {
+  font-size: 0.75rem;
+  opacity: 0.7;
+  margin-top: 0.75rem;
+}
+.newsletter-privacy a { color: var(--gold-light); }
+
+@media (max-width: 500px) {
+  .newsletter-form { flex-direction: column; }
+}
+
 /* --- Utility --- */
 .sr-only {
   position: absolute;
