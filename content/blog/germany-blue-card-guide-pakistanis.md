@@ -15,7 +15,7 @@ showTOC: true
 
 Moving to Germany as a Pakistani professional? The **EU Blue Card** is the most popular route for skilled workers from Pakistan. It offers a fast track to permanent residency and brings your family with you.
 
-This guide walks you through every step of the process, based on official German immigration rules and our own experience navigating the system.
+This guide walks you through every step of the process, based on official German immigration rules and our own experience going through the system.
 
 ## What Is the EU Blue Card?
 
@@ -32,9 +32,9 @@ The EU Blue Card (*Blaue Karte EU*) is a work and residence permit for highly qu
 
 To qualify for a German Blue Card, you need:
 
-1. **A recognized university degree** — Your Pakistani degree must be recognized in Germany. Check your degree on the [anabin database](https://anabin.kmk.org/) or get a credential evaluation from ZAB.
+1. **A recognized university degree** - Your Pakistani degree must be recognized in Germany. Check your degree on the [anabin database](https://anabin.kmk.org/) or get a credential evaluation from ZAB.
 
-2. **A job offer or employment contract** — You need a binding job offer from a German employer that matches your qualifications.
+2. **A job offer or employment contract** - You need a binding job offer from a German employer that matches your qualifications.
 
 3. **Minimum salary threshold (2026):**
    - **Standard professions:** EUR 45,300 gross per year
@@ -72,10 +72,10 @@ Before anything else, verify your degree is recognized in Germany:
 
 The most common ways Pakistani professionals find jobs in Germany:
 
-- **LinkedIn** — Set your location preference to Germany, apply directly
-- **StepStone, Indeed.de, Xing** — Major German job portals
-- **Make-it-in-Germany.com** — Official job portal with English listings
-- **Direct company applications** — Target companies known for sponsoring Blue Cards
+- **LinkedIn** - Set your location preference to Germany, apply directly
+- **StepStone, Indeed.de, Xing** - Major German job portals
+- **Make-it-in-Germany.com** - Official job portal with English listings
+- **Direct company applications** - Target companies known for sponsoring Blue Cards
 
 ### Step 3: Apply at the German Embassy in Islamabad
 
@@ -109,10 +109,10 @@ After arriving in Germany:
 
 ## Common Mistakes to Avoid
 
-- **Not checking anabin first** — If your university is not listed or rated "H-", you need ZAB evaluation, which adds months
-- **Salary below threshold** — Ensure your contract clearly states the gross annual salary meets the minimum
-- **Incomplete documents** — Missing translations or uncertified copies cause delays
-- **Waiting too long to book the embassy appointment** — Book as soon as you have a job offer
+- **Not checking anabin first** - If your university is not listed or rated "H-", you need ZAB evaluation, which adds months
+- **Salary below threshold** - Ensure your contract clearly states the gross annual salary meets the minimum
+- **Incomplete documents** - Missing translations or uncertified copies cause delays
+- **Waiting too long to book the embassy appointment** - Book as soon as you have a job offer
 
 ## After You Arrive
 

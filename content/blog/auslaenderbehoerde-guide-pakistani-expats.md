@@ -1,8 +1,8 @@
 ---
-title: "Dealing with the Ausländerbehörde — A Pakistani Expat's Survival Guide"
+title: "Dealing with the Ausländerbehörde - A Pakistani Expat's Survival Guide"
 date: 2026-03-09
 slug: "auslaenderbehoerde-guide-pakistani-expats"
-description: "Everything Pakistanis need to know about the Ausländerbehörde (Foreigners' Registration Office) in Germany — booking appointments, required documents, wait times by city, your rights, handling delays, and tips for a smooth visit."
+description: "Everything Pakistanis need to know about the Ausländerbehörde (Foreigners' Registration Office) in Germany - booking appointments, required documents, wait times by city, your rights, handling delays, and tips for a smooth visit."
 tags: ["ausländerbehörde", "foreigners office", "immigration office", "germany", "pakistan", "residence permit", "settling in", "bureaucracy", "fiktionsbescheinigung"]
 categories: ["Settling In"]
 pillars: ["Settling In"]
@@ -15,7 +15,7 @@ showTOC: true
 
 If you are a Pakistani living in Germany, you will develop a relationship with the **Ausländerbehörde** (Foreigners' Registration Office) whether you want to or not. It is the kind of relationship where one side holds all the power, the other side waits for months, and neither party enjoys the interaction.
 
-Welcome to the most universally dreaded office in Germany — and that is saying something in a country where bureaucracy is a national sport.
+Welcome to the most universally dreaded office in Germany - and that is saying something in a country where bureaucracy is a national sport.
 
 But here is the thing: the Ausländerbehörde does not have to be a nightmare. With the right preparation, the right documents, and the right mindset, you can walk in, get your business done, and walk out without losing years off your life. This guide will show you exactly how.
 
@@ -23,15 +23,15 @@ But here is the thing: the Ausländerbehörde does not have to be a nightmare. W
 
 The **Ausländerbehörde** (ABH), also called the **Ausländeramt** or more formally the **Landesamt für Einwanderung** (LEA) in Berlin, is the local immigration authority responsible for all residence permit matters for non-EU nationals living in Germany.
 
-Think of it as the German equivalent of the immigration office back home — except it is run with German precision, German rules, and unfortunately, German wait times.
+Think of it as the German equivalent of the immigration office back home - except it is run with German precision, German rules, and unfortunately, German wait times.
 
 Their responsibilities include:
 
-- **Issuing residence permits** (*Aufenthaltserlaubnis*) — your initial permit after arriving on a visa
+- **Issuing residence permits** (*Aufenthaltserlaubnis*) - your initial permit after arriving on a visa
 - **Extending residence permits** when your current one is about to expire
-- **Changing visa types** — for example, switching from a student visa to a work permit
+- **Changing visa types** - for example, switching from a student visa to a work permit
 - **Processing employer changes** for Blue Card and work permit holders
-- **Issuing permanent residency** (*Niederlassungserlaubnis*) — see our [complete PR guide](/blog/permanent-residency-germany-niederlassungserlaubnis-guide/)
+- **Issuing permanent residency** (*Niederlassungserlaubnis*) - see our [complete PR guide](/blog/permanent-residency-germany-niederlassungserlaubnis-guide/)
 - **Issuing the Fiktionsbescheinigung** (temporary permit while your application is being processed)
 - **Processing family reunification** cases for spouses and children joining you
 
@@ -49,7 +49,7 @@ When you first arrive in Germany on a national visa (type D), your visa is typic
 
 ### 2. Residence Permit Extension
 
-Your residence permit is expiring? You need to apply for an extension **at least 6-8 weeks before the expiry date**. In cities like Berlin, start even earlier — 3-4 months in advance is not paranoid, it is smart.
+Your residence permit is expiring? You need to apply for an extension **at least 6-8 weeks before the expiry date**. In cities like Berlin, start even earlier - 3-4 months in advance is not paranoid, it is smart.
 
 If you applied for an extension before your permit expires, you are legally allowed to stay and work in Germany even if the new permit has not been issued yet (more on the Fiktionsbescheinigung below).
 
@@ -63,7 +63,7 @@ Want to switch from a student visa to a work permit? From a Job Seeker Visa to a
 
 ### 5. Permanent Residency Application
 
-When you qualify for *Niederlassungserlaubnis* (permanent residency), you apply at — you guessed it — the Ausländerbehörde. This is the big one. Check our [permanent residency guide](/blog/permanent-residency-germany-niederlassungserlaubnis-guide/) for detailed eligibility timelines.
+When you qualify for *Niederlassungserlaubnis* (permanent residency), you apply at - you guessed it - the Ausländerbehörde. This is the big one. Check our [permanent residency guide](/blog/permanent-residency-germany-niederlassungserlaubnis-guide/) for detailed eligibility timelines.
 
 ### 6. Other Situations
 
@@ -78,7 +78,7 @@ Getting an appointment at the Ausländerbehörde is often harder than the appoin
 
 ### How Appointments Work
 
-Most cities use an **online booking system** (typically through their city website or a platform like *service.berlin.de*). Some cities also accept walk-ins for certain services, but relying on walk-ins is like relying on a cancelled flight — technically possible, but you will waste your day.
+Most cities use an **online booking system** (typically through their city website or a platform like *service.berlin.de*). Some cities also accept walk-ins for certain services, but relying on walk-ins is like relying on a cancelled flight - technically possible, but you will waste your day.
 
 **General process:**
 
@@ -94,12 +94,12 @@ Here is the uncomfortable truth: most major German cities do not have enough slo
 **Tips for getting an appointment:**
 
 - **Check the booking portal early in the morning** (6:00-7:00 AM) when new slots are typically released
-- **Try multiple times per day** — cancelled appointments free up slots throughout the day
+- **Try multiple times per day** - cancelled appointments free up slots throughout the day
 - **Use browser auto-refresh extensions** to keep checking the portal (yes, people really do this)
-- **Some cities release slots weekly** (usually Monday mornings) — learn your city's pattern
-- **Call the office directly** if you cannot find slots online — some appointments are only bookable by phone
-- **Write a formal letter** (email or post) explaining the urgency of your case — this sometimes triggers an expedited appointment, especially if your permit is about to expire
-- **Visit the office in person** as a last resort — some cities have a "Notfall" (emergency) counter for urgent cases
+- **Some cities release slots weekly** (usually Monday mornings) - learn your city's pattern
+- **Call the office directly** if you cannot find slots online - some appointments are only bookable by phone
+- **Write a formal letter** (email or post) explaining the urgency of your case - this sometimes triggers an expedited appointment, especially if your permit is about to expire
+- **Visit the office in person** as a last resort - some cities have a "Notfall" (emergency) counter for urgent cases
 
 ### Wait Times by City (2026 Estimates)
 
@@ -117,26 +117,26 @@ Here is the uncomfortable truth: most major German cities do not have enough slo
 
 ## What to Bring: The Complete Document Checklist
 
-The single biggest reason appointments go badly is **missing documents**. The Sachbearbeiter (case officer) will not improvise. If a document is missing, you will be sent home and told to book a new appointment — which could be weeks away.
+The single biggest reason appointments go badly is **missing documents**. The Sachbearbeiter (case officer) will not improvise. If a document is missing, you will be sent home and told to book a new appointment - which could be weeks away.
 
 Here is what to bring for the most common scenarios:
 
 ### For All Appointments (Universal Checklist)
 
-- [ ] **Valid passport** (with at least 6 months validity remaining — ideally more)
+- [ ] **Valid passport** (with at least 6 months validity remaining - ideally more)
 - [ ] **Current visa or residence permit** (the physical card, not a copy)
-- [ ] **Anmeldung confirmation** (Meldebescheinigung — get a fresh one if yours is older than 3 months)
+- [ ] **Anmeldung confirmation** (Meldebescheinigung - get a fresh one if yours is older than 3 months)
 - [ ] **Biometric passport photo** (35x45mm, taken within the last 6 months, matte finish, light background)
-- [ ] **Completed application form** (download from your city's ABH website — fill it out in advance)
-- [ ] **Proof of health insurance** (Krankenversicherungsnachweis from your insurer — must be current)
+- [ ] **Completed application form** (download from your city's ABH website - fill it out in advance)
+- [ ] **Proof of health insurance** (Krankenversicherungsnachweis from your insurer - must be current)
 - [ ] **Proof of financial means** (employment contract, salary slips for the last 3 months, or blocked account statement)
 - [ ] **Proof of accommodation** (rental contract or *Wohnungsgeberbestätigung*)
-- [ ] **Fee payment** (varies by permit type — typically EUR 50-100 for extensions, EUR 100-150 for new permits; bring cash and EC card)
+- [ ] **Fee payment** (varies by permit type - typically EUR 50-100 for extensions, EUR 100-150 for new permits; bring cash and EC card)
 
 ### Additional Documents by Permit Type
 
 **Blue Card application/extension:**
-- [ ] Employment contract showing salary meets the threshold (EUR 45,300 general / EUR 41,042 for shortage occupations as of 2026 — verify current thresholds)
+- [ ] Employment contract showing salary meets the threshold (EUR 45,300 general / EUR 41,042 for shortage occupations as of 2026 - verify current thresholds)
 - [ ] University degree recognition (anabin printout showing H+ status, or ZAB recognition certificate)
 - [ ] Latest salary slips (3 months)
 
@@ -160,14 +160,14 @@ Here is what to bring for the most common scenarios:
 
 **Permanent residency:**
 - [ ] German language certificate (B1 for standard route, A1 minimum for Blue Card fast-track)
-- [ ] Pension insurance records (Rentenversicherungsverlauf) — request from Deutsche Rentenversicherung
+- [ ] Pension insurance records (Rentenversicherungsverlauf) - request from Deutsche Rentenversicherung
 - [ ] Proof of 60 months of pension contributions (or less for Blue Card holders)
 - [ ] Integration course certificate (*Integrationskurs*) if completed
-- [ ] Clean criminal record (Führungszeugnis — apply at your local Bürgeramt)
+- [ ] Clean criminal record (Führungszeugnis - apply at your local Bürgeramt)
 
 ### The Golden Rule: Bring Everything Twice
 
-**Bring originals AND copies of every single document.** The case officer will keep copies for your file and may want to see originals for verification. Do not make them wait while you run to the copy machine in the hallway — those machines are always broken anyway.
+**Bring originals AND copies of every single document.** The case officer will keep copies for your file and may want to see originals for verification. Do not make them wait while you run to the copy machine in the hallway - those machines are always broken anyway.
 
 **Pro tip:** Put all documents in a clear plastic folder organized in the order listed above. German bureaucrats appreciate order. It shows respect for the process and makes their job easier, which makes them more inclined to help you.
 
@@ -187,7 +187,7 @@ Here is what to bring for the most common scenarios:
 3. **Your turn:** Your name or number will be called. Go to the assigned window or room.
 4. **Document review:** The Sachbearbeiter will go through your documents one by one. They may ask you questions about your employment, living situation, or plans.
 5. **Biometrics:** For new permits or renewals, they will take your fingerprints and possibly a photo (though usually you provide the photo).
-6. **Decision:** In many cases, you will get a decision on the spot — either approval (with the permit to be picked up or mailed later) or a request for additional documents. Complex cases may require a follow-up.
+6. **Decision:** In many cases, you will get a decision on the spot - either approval (with the permit to be picked up or mailed later) or a request for additional documents. Complex cases may require a follow-up.
 7. **Payment:** You will pay the fee at the end. Keep the receipt.
 8. **Fiktionsbescheinigung:** If your permit cannot be issued immediately, you will receive this temporary document (see below).
 
@@ -198,7 +198,7 @@ Most Sachbearbeiter speak some English, but **do not count on it**. Many prefer 
 **Options for dealing with the language barrier:**
 
 - **Bring a German-speaking friend** or colleague who can translate. This is the most practical solution.
-- **Hire an interpreter** if the stakes are high (permanent residency, complex cases). Some cities offer free interpretation services — ask when booking.
+- **Hire an interpreter** if the stakes are high (permanent residency, complex cases). Some cities offer free interpretation services - ask when booking.
 - **Learn the key vocabulary** (see the cheat sheet below).
 - **Use Google Translate or DeepL** on your phone as a backup, but do not rely on it as your primary communication tool.
 
@@ -227,13 +227,13 @@ These tips come from years of collective experience among Pakistani expats who h
 
 1. **Apply for everything early.** The number one mistake is waiting until the last minute. Start your extension process 3-4 months before expiry. Start your PR application the moment you are eligible. Procrastination is the enemy.
 
-2. **Keep a paper trail of everything.** Every email you send, every letter you receive, every document you submit — keep copies. If the ABH loses your file (it happens), you will need to reconstruct everything.
+2. **Keep a paper trail of everything.** Every email you send, every letter you receive, every document you submit - keep copies. If the ABH loses your file (it happens), you will need to reconstruct everything.
 
 3. **Be polite but firm.** The Sachbearbeiter is doing their job. Being rude will not speed things up, but being overly passive can mean your case gets deprioritized. If something is wrong, calmly advocate for yourself.
 
 4. **Do not argue about the rules.** Even if you think a requirement is unreasonable (and some of them are), arguing at the window will not change the law. Accept what is needed, go get it, and come back.
 
-5. **Ask for everything in writing.** If a Sachbearbeiter tells you something verbally — especially if it contradicts what you have read online — ask them to write it down or send it to you by email. Verbal promises are worthless in German bureaucracy.
+5. **Ask for everything in writing.** If a Sachbearbeiter tells you something verbally - especially if it contradicts what you have read online - ask them to write it down or send it to you by email. Verbal promises are worthless in German bureaucracy.
 
 6. **Follow up in writing if you do not hear back.** If your application has been pending for longer than the stated processing time, send a formal letter (Fristsetzung) giving them a deadline to respond. We cover this in detail in our [bureaucracy survival guide](/blog/german-bureaucracy-survival-guide-pakistanis/).
 
@@ -245,7 +245,7 @@ These tips come from years of collective experience among Pakistani expats who h
 
 You are not powerless. German law gives you specific rights when dealing with immigration authorities:
 
-- **Right to an interpreter:** If you do not speak German, the office should provide an interpreter for important legal matters. In practice, enforcement varies — but you can insist.
+- **Right to an interpreter:** If you do not speak German, the office should provide an interpreter for important legal matters. In practice, enforcement varies - but you can insist.
 - **Right to see your file:** Under Section 29 of the Administrative Procedures Act (*Verwaltungsverfahrensgesetz*), you have the right to inspect your own case file (*Akteneinsicht*). This can be very helpful if your application is stuck.
 - **Right to a written decision:** Any rejection must be in writing and must include the legal reasoning. Verbal rejections are not valid.
 - **Right to appeal:** You can challenge any negative decision (see the appeals section below).
@@ -272,9 +272,9 @@ After the standard processing time has passed, send a polite but formal email or
 
 ### Step 3: Set a Formal Deadline (Fristsetzung)
 
-If you do not hear back within 2 weeks of your inquiry, send a **formal letter setting a deadline** (usually 4 weeks) for them to decide on your application. Reference **Section 75 of the Administrative Court Code** (*Verwaltungsgerichtsordnung — VwGO*), which states that if an authority fails to act within a reasonable time, you can file a lawsuit to compel them to act (*Untätigkeitsklage*).
+If you do not hear back within 2 weeks of your inquiry, send a **formal letter setting a deadline** (usually 4 weeks) for them to decide on your application. Reference **Section 75 of the Administrative Court Code** (*Verwaltungsgerichtsordnung - VwGO*), which states that if an authority fails to act within a reasonable time, you can file a lawsuit to compel them to act (*Untätigkeitsklage*).
 
-You do not need to actually file the lawsuit — just mentioning it often moves things along.
+You do not need to actually file the lawsuit - just mentioning it often moves things along.
 
 ### Step 4: File an Untätigkeitsklage (Inaction Lawsuit)
 
@@ -282,7 +282,7 @@ If the formal deadline passes with no response, you can file a lawsuit at the **
 
 ## The Fiktionsbescheinigung: Your Safety Net
 
-The **Fiktionsbescheinigung** (literally "fiction certificate" — yes, that is the real name) is one of the most important documents you will encounter. It is a temporary paper document that extends your legal right to stay and work in Germany while your residence permit application is being processed.
+The **Fiktionsbescheinigung** (literally "fiction certificate" - yes, that is the real name) is one of the most important documents you will encounter. It is a temporary paper document that extends your legal right to stay and work in Germany while your residence permit application is being processed.
 
 ### When Do You Get One?
 
@@ -292,14 +292,14 @@ If you applied for a new permit or extension **before your current permit expire
 
 - You can **stay in Germany** legally
 - You can **continue working** under the same conditions as your previous permit
-- You can **travel within the Schengen area** (with some restrictions — check with your ABH)
+- You can **travel within the Schengen area** (with some restrictions - check with your ABH)
 - It is valid for **6-12 months** typically, and can be extended
 
 ### Important Warnings About the Fiktionsbescheinigung
 
 - **It is not a travel document outside the EU.** If you leave the Schengen area with only a Fiktionsbescheinigung, you may have trouble re-entering. Always clarify travel restrictions with your case officer before booking flights.
 - **Some employers get nervous about it.** Educate your HR department. The Fiktionsbescheinigung is a fully legal document and your employment is not affected.
-- **Keep it on you at all times.** If your residence permit card has expired and you only have the Fiktionsbescheinigung, carry it everywhere — police can ask for identification at any time.
+- **Keep it on you at all times.** If your residence permit card has expired and you only have the Fiktionsbescheinigung, carry it everywhere - police can ask for identification at any time.
 - **It looks unofficial.** It is literally a paper printout with a stamp. It does not look like an important legal document, but it is. Laminate it or keep it in a plastic sleeve.
 
 ## Common Issues Pakistanis Face at the Ausländerbehörde
@@ -310,7 +310,7 @@ Based on years of community experience, these are the issues that disproportiona
 
 Pakistani documents (degree certificates, marriage certificates, police clearance) often need to be **apostilled by the Ministry of Foreign Affairs in Islamabad** and then translated into German by a **sworn translator** (*vereidigter Übersetzer*) in Germany. If your documents are not properly apostilled or translated, the ABH will reject them.
 
-**What to do:** Get your documents apostilled before leaving Pakistan. If you are already in Germany, contact the Pakistani embassy in Berlin or consulate in Frankfurt. For translations, use only sworn translators — a list is available on the website of your local Landgericht (regional court).
+**What to do:** Get your documents apostilled before leaving Pakistan. If you are already in Germany, contact the Pakistani embassy in Berlin or consulate in Frankfurt. For translations, use only sworn translators - a list is available on the website of your local Landgericht (regional court).
 
 ### 2. Degree Recognition Problems
 
@@ -328,7 +328,7 @@ Blue Card salary thresholds are not negotiable. If your salary is even one euro 
 
 For family reunification, your spouse in Pakistan typically needs to pass the **A1 German language test** at the Goethe-Institut in Karachi or Lahore. This can be challenging and adds months to the process.
 
-**What to do:** Start German language preparation early — ideally 6-12 months before the planned visa application. The Goethe-Institut offers preparatory courses in Pakistan.
+**What to do:** Start German language preparation early - ideally 6-12 months before the planned visa application. The Goethe-Institut offers preparatory courses in Pakistan.
 
 ### 5. Processing Delays and Communication Gaps
 
@@ -349,7 +349,7 @@ If your application is rejected, you have the right to challenge the decision. T
 
 ### Klage (Lawsuit at Administrative Court)
 
-If the Widerspruch is rejected (or if no Widerspruch is possible — the rejection letter will specify), you can file a **Klage** (lawsuit) at the Verwaltungsgericht within one month.
+If the Widerspruch is rejected (or if no Widerspruch is possible - the rejection letter will specify), you can file a **Klage** (lawsuit) at the Verwaltungsgericht within one month.
 
 - **Cost:** Court fees start around EUR 200-300. Lawyer fees depend on the case value.
 - **Timeline:** Administrative court cases can take 6-18 months in Germany.
@@ -368,8 +368,8 @@ Get a lawyer (**Fachanwalt für Migrationsrecht** or **Rechtsanwalt für Auslän
 
 **How to find a good immigration lawyer:**
 - The **Deutsche Anwaltverein** (German Bar Association) has a searchable directory at anwaltauskunft.de
-- Ask in Pakistani community groups for recommendations — word of mouth is the most reliable
-- Many lawyers offer a **free initial consultation** (*Erstberatung*) — use this to evaluate them
+- Ask in Pakistani community groups for recommendations - word of mouth is the most reliable
+- Many lawyers offer a **free initial consultation** (*Erstberatung*) - use this to evaluate them
 - Check if you qualify for **legal aid** (*Prozesskostenhilfe*) if you cannot afford a lawyer
 
 ## City-by-City Guide: What to Expect
@@ -384,10 +384,10 @@ Get a lawyer (**Fachanwalt für Migrationsrecht** or **Rechtsanwalt für Auslän
 
 **Tips for Berlin:**
 - Book your appointment as early as humanly possible
-- The LEA has improved their online portal (service.berlin.de) — check for new slots every morning at 7 AM
-- For Blue Card holders, there is sometimes a separate, faster track — ask specifically about it
+- The LEA has improved their online portal (service.berlin.de) - check for new slots every morning at 7 AM
+- For Blue Card holders, there is sometimes a separate, faster track - ask specifically about it
 - The "Infothek" (information counter) can answer basic questions without an appointment
-- Consider using a *Migrationsberatung* (migration counseling service) — these are free and NGO-run
+- Consider using a *Migrationsberatung* (migration counseling service) - these are free and NGO-run
 
 **Online services:** Berlin has been slowly rolling out digital applications through the Berlin.de portal. As of 2026, you can submit some extension applications online, but most processes still require in-person appointments.
 
@@ -401,8 +401,8 @@ Get a lawyer (**Fachanwalt für Migrationsrecht** or **Rechtsanwalt für Auslän
 
 **Tips for Munich:**
 - Double-check every document against the requirements list before your appointment
-- Munich is particularly strict about health insurance — make sure your coverage is adequate
-- The KVR website has detailed checklists for each permit type — use them
+- Munich is particularly strict about health insurance - make sure your coverage is adequate
+- The KVR website has detailed checklists for each permit type - use them
 - Blue Card holders generally have a smoother experience in Munich than other permit types
 - The staff tends to speak better English than in other cities, but do not rely on it
 
@@ -417,10 +417,10 @@ Get a lawyer (**Fachanwalt für Migrationsrecht** or **Rechtsanwalt für Auslän
 **The experience:** Frankfurt's ABH sits somewhere between Berlin's chaos and Munich's rigidity. The international nature of the city (major financial hub, large expat population) means the staff is generally experienced with diverse cases. However, the office can be slow, and the phone lines are notoriously difficult to reach.
 
 **Tips for Frankfurt:**
-- The office has morning hours for certain services — check the website for current schedules
-- Frankfurt has a dedicated team for skilled workers — if you hold a Blue Card, ask to be routed to them
-- The Pakistani community in Frankfurt is large and well-connected — the Pakistan Association Frankfurt can provide guidance
-- Some services are available at satellite offices (*Bürgerämter*) — check if your specific need can be handled locally
+- The office has morning hours for certain services - check the website for current schedules
+- Frankfurt has a dedicated team for skilled workers - if you hold a Blue Card, ask to be routed to them
+- The Pakistani community in Frankfurt is large and well-connected - the Pakistan Association Frankfurt can provide guidance
+- Some services are available at satellite offices (*Bürgerämter*) - check if your specific need can be handled locally
 
 **Online services:** Limited but expanding. Basic forms and appointment booking are available online.
 
@@ -433,9 +433,9 @@ Get a lawyer (**Fachanwalt für Migrationsrecht** or **Rechtsanwalt für Auslän
 **The experience:** Hamburg's immigration office is generally considered one of the better ones among major German cities. The staff is reasonably efficient, wait times are shorter than Berlin or Frankfurt, and the online systems work fairly well.
 
 **Tips for Hamburg:**
-- Hamburg's online appointment system releases new slots every week — check Monday mornings
-- The Einwohnerzentralamt has a separate section for EU citizens and non-EU nationals — make sure you are in the right queue
-- Hamburg offers migration counseling through the *Zentrale Anlaufstelle Anerkennung* — use it for free advice
+- Hamburg's online appointment system releases new slots every week - check Monday mornings
+- The Einwohnerzentralamt has a separate section for EU citizens and non-EU nationals - make sure you are in the right queue
+- Hamburg offers migration counseling through the *Zentrale Anlaufstelle Anerkennung* - use it for free advice
 - The Welcome Center Hamburg assists skilled workers with immigration matters and can sometimes expedite appointments
 
 **Online services:** Hamburg has made good progress with digital services. Some applications can be submitted digitally, and the appointment booking system is relatively reliable.
@@ -454,7 +454,7 @@ Germany is slowly modernizing its immigration infrastructure. Here is what is av
 
 ## Final Thoughts: It Gets Better
 
-Here is something nobody tells you: the more times you visit the Ausländerbehörde, the easier it gets. Not because the system improves (it does not), but because **you** improve. You learn what documents to bring, how to fill out the forms, when to push back and when to accept, and how to navigate the system.
+Here is something nobody tells you: the more times you visit the Ausländerbehörde, the easier it gets. Not because the system improves (it does not), but because **you** improve. You learn what documents to bring, how to fill out the forms, when to push back and when to accept, and how to work the system.
 
 After your first few visits, you will go from anxious wreck to seasoned veteran. You will help other Pakistanis prepare for their appointments. You might even develop a grudging respect for the thoroughness of German immigration bureaucracy. Might.
 
