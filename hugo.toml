@@ -89,8 +89,7 @@ enableEmoji = false
   # Legal disclaimer shown on immigration content
   disclaimer = "This is informational content, not legal advice. Always verify with official sources or an immigration lawyer."
 
-  # Google AdSense (uncomment when approved)
-  # adsenseId = "ca-pub-XXXXXXXXXXXXXXXX"
+  adsenseId = "ca-pub-6292468582683973"
 
   googleAnalytics = "G-ZWG0FTJ2H1"
 
