@@ -11,7 +11,7 @@ cta = "Try Wise Free"
 [n26]
 name = "N26"
 tagline = "Open a German bank account in minutes — no paperwork"
-url = "https://n26.com/r/"  # TODO: Replace with your referral link
+url = "https://n26.com/r/hassanus6957?cid=0JY&lang=en"
 category = "banking"
 cta = "Open N26 Account"
 
