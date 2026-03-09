@@ -1,0 +1,12 @@
+{{/* Social sharing buttons - no JS, pure URL-based */}}
+{{ if .IsPage }}
+<div class="social-share">
+  <span class="share-label">Share this guide:</span>
+  <div class="share-buttons">
+    <a href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}" target="_blank" rel="noopener" class="share-btn share-fb" aria-label="Share on Facebook">Facebook</a>
+    <a href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title | urlquery }}" target="_blank" rel="noopener" class="share-btn share-tw" aria-label="Share on X">X</a>
+    <a href="https://wa.me/?text={{ .Title | urlquery }}%20{{ .Permalink }}" target="_blank" rel="noopener" class="share-btn share-wa" aria-label="Share on WhatsApp">WhatsApp</a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}" target="_blank" rel="noopener" class="share-btn share-li" aria-label="Share on LinkedIn">LinkedIn</a>
+  </div>
+</div>
+{{ end }}

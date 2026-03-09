@@ -641,6 +641,38 @@ section:not(.hero) .btn-outline:hover {
   .article-body-container .newsletter-section { margin: 2.5rem 0; }
 }
 
+/* --- Social Share --- */
+.social-share {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-light);
+}
+.share-label {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--text-light);
+}
+.share-buttons {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  flex-wrap: wrap;
+}
+.share-btn {
+  display: inline-block;
+  padding: 0.4rem 0.9rem;
+  border-radius: var(--radius);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #fff;
+  transition: opacity 0.2s;
+}
+.share-btn:hover { opacity: 0.85; color: #fff; }
+.share-fb { background: #1877F2; }
+.share-tw { background: #1a1a1a; }
+.share-wa { background: #25D366; }
+.share-li { background: #0A66C2; }
+
 /* --- Utility --- */
 .sr-only {
   position: absolute;
