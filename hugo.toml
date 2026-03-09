@@ -92,8 +92,7 @@ enableEmoji = false
   # Google AdSense (uncomment when approved)
   # adsenseId = "ca-pub-XXXXXXXXXXXXXXXX"
 
-  # Analytics (uncomment when set up)
-  # googleAnalytics = "G-XXXXXXXXXX"
+  googleAnalytics = "G-ZWG0FTJ2H1"
 
 [markup]
   [markup.goldmark]
