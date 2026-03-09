@@ -85,5 +85,10 @@
 {{/* Favicon */}}
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 
+{{/* Google AdSense — only loads when adsenseId is configured in hugo.toml */}}
+{{ with .Site.Params.adsenseId }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ . }}" crossorigin="anonymous"></script>
+{{ end }}
+
 {{/* Stylesheet */}}
 <link rel="stylesheet" href="/css/style.css">

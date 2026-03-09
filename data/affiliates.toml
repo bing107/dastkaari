@@ -1,0 +1,51 @@
+# Affiliate links — managed centrally, used in templates and shortcodes
+# Replace placeholder URLs with your actual referral links after signing up
+
+[wise]
+name = "Wise"
+tagline = "Send money to Pakistan with the real exchange rate"
+url = "https://wise.com/invite/"  # TODO: Replace with your referral link
+category = "money-transfer"
+cta = "Try Wise Free"
+
+[n26]
+name = "N26"
+tagline = "Open a German bank account in minutes — no paperwork"
+url = "https://n26.com/r/"  # TODO: Replace with your referral link
+category = "banking"
+cta = "Open N26 Account"
+
+[expatrio]
+name = "Expatrio"
+tagline = "Blocked account for your German visa — fast and trusted"
+url = "https://www.expatrio.com/"  # TODO: Replace with your referral link
+category = "visa-services"
+cta = "Open Blocked Account"
+
+[lingoda]
+name = "Lingoda"
+tagline = "Learn German online with native speakers"
+url = "https://www.lingoda.com/"  # TODO: Replace with your referral link
+category = "language"
+cta = "Start Learning German"
+
+[getsafe]
+name = "GetSafe"
+tagline = "Health insurance for expats — easy online setup"
+url = "https://www.getsafe.eu/"  # TODO: Replace with your referral link
+category = "insurance"
+cta = "Get a Quote"
+
+[immoscout]
+name = "ImmobilienScout24"
+tagline = "Find apartments and houses in Germany"
+url = "https://www.immobilienscout24.de/"
+category = "housing"
+cta = "Search Properties"
+
+[nordvpn]
+name = "NordVPN"
+tagline = "Access Pakistani streaming and banking from Germany"
+url = "https://nordvpn.com/"  # TODO: Replace with your referral link
+category = "vpn"
+cta = "Get NordVPN"

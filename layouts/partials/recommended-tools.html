@@ -1,0 +1,57 @@
+{{/* Sidebar/bottom section showing relevant affiliate tools based on article categories */}}
+{{ $cats := .Params.categories | default (slice) }}
+{{ $affiliates := .Site.Data.affiliates }}
+
+{{ $relevant := slice }}
+
+{{/* Match affiliates to article content */}}
+{{ range $cat := $cats }}
+  {{ $c := lower $cat }}
+  {{ if or (in $c "immigration") (in $c "visa") }}
+    {{ $relevant = $relevant | append "expatrio" "wise" }}
+  {{ end }}
+  {{ if or (in $c "settling") (in $c "first") }}
+    {{ $relevant = $relevant | append "n26" "getsafe" "wise" }}
+  {{ end }}
+  {{ if or (in $c "career") (in $c "job") }}
+    {{ $relevant = $relevant | append "lingoda" "n26" }}
+  {{ end }}
+  {{ if or (in $c "real estate") (in $c "housing") }}
+    {{ $relevant = $relevant | append "immoscout" }}
+  {{ end }}
+{{ end }}
+
+{{/* Always show Wise as a default if nothing matched */}}
+{{ if eq (len $relevant) 0 }}
+  {{ $relevant = slice "wise" "n26" }}
+{{ end }}
+
+{{/* Deduplicate */}}
+{{ $seen := slice }}
+{{ $unique := slice }}
+{{ range $relevant }}
+  {{ if not (in $seen .) }}
+    {{ $seen = $seen | append . }}
+    {{ $unique = $unique | append . }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $unique) 0 }}
+<aside class="recommended-tools">
+  <h3>Recommended Tools</h3>
+  <p class="tools-subtitle">Services we recommend for your move to Germany</p>
+  {{ range $unique }}
+    {{ $aff := index $affiliates . }}
+    {{ if $aff }}
+    <div class="tool-card">
+      <div class="tool-info">
+        <strong>{{ $aff.name }}</strong>
+        <span class="tool-tagline">{{ $aff.tagline }}</span>
+      </div>
+      <a href="{{ $aff.url }}" target="_blank" rel="noopener sponsored" class="tool-cta">{{ $aff.cta }}</a>
+    </div>
+    {{ end }}
+  {{ end }}
+  <p class="affiliate-disclosure">Some links are affiliate links. We may earn a commission at no extra cost to you.</p>
+</aside>
+{{ end }}

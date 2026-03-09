@@ -1,0 +1,12 @@
+{{/* Usage: {{< affiliate-box "wise" >}} — renders a styled recommendation box */}}
+{{ $key := .Get 0 }}
+{{ $aff := index .Site.Data.affiliates $key }}
+{{ if $aff }}
+<div class="affiliate-box">
+  <div class="affiliate-box-content">
+    <strong>{{ $aff.name }}</strong>
+    <p>{{ $aff.tagline }}</p>
+  </div>
+  <a href="{{ $aff.url }}" target="_blank" rel="noopener sponsored" class="btn btn-primary affiliate-btn">{{ $aff.cta }}</a>
+</div>
+{{ end }}

@@ -518,6 +518,80 @@ section:not(.hero) .btn-outline:hover {
   .footer-grid { grid-template-columns: 1fr; gap: 1.5rem; }
 }
 
+/* --- Affiliate & Ads --- */
+.affiliate-inline {
+  color: var(--green);
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.affiliate-inline:hover { color: var(--green-dark); }
+
+.affiliate-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  background: var(--green-light);
+  border: 1px solid var(--green);
+  border-radius: var(--radius);
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0;
+}
+.affiliate-box-content p { margin: 0.25rem 0 0; font-size: 0.9rem; color: var(--text-light); }
+.affiliate-btn { white-space: nowrap; font-size: 0.88rem; padding: 0.5rem 1.2rem; }
+
+@media (max-width: 500px) {
+  .affiliate-box { flex-direction: column; text-align: center; }
+}
+
+.recommended-tools {
+  margin-top: 2.5rem;
+  padding: 1.5rem;
+  background: var(--bg-white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.recommended-tools h3 { font-size: 1.1rem; margin-bottom: 0.25rem; }
+.tools-subtitle { font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem; }
+
+.tool-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--border-light);
+}
+.tool-card:last-of-type { border-bottom: none; }
+.tool-info { display: flex; flex-direction: column; gap: 0.15rem; }
+.tool-info strong { font-size: 0.95rem; }
+.tool-tagline { font-size: 0.82rem; color: var(--text-muted); }
+.tool-cta {
+  white-space: nowrap;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--bg-white);
+  background: var(--green);
+  padding: 0.4rem 0.9rem;
+  border-radius: var(--radius);
+  transition: background 0.2s;
+}
+.tool-cta:hover { background: var(--green-dark); color: var(--bg-white); }
+
+.affiliate-disclosure {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 0.75rem;
+}
+
+.ad-slot { margin: 2rem 0; text-align: center; }
+.ad-slot-bottom { margin-top: 2.5rem; padding-top: 1.5rem; border-top: 1px solid var(--border-light); }
+
+@media (max-width: 500px) {
+  .tool-card { flex-direction: column; align-items: flex-start; gap: 0.5rem; }
+}
+
 /* --- Utility --- */
 .sr-only {
   position: absolute;

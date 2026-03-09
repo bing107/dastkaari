@@ -1,0 +1,6 @@
+{{/* Usage: {{< affiliate "wise" >}} or {{< affiliate "n26" "Custom CTA text" >}} */}}
+{{ $key := .Get 0 }}
+{{ $aff := index .Site.Data.affiliates $key }}
+{{ if $aff }}
+<a href="{{ $aff.url }}" target="_blank" rel="noopener sponsored" class="affiliate-inline">{{ if .Get 1 }}{{ .Get 1 }}{{ else }}{{ $aff.cta }}{{ end }}</a>
+{{ end }}

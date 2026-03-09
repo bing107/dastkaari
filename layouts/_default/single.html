@@ -40,6 +40,22 @@
       {{ end }}
     </div>
     {{ end }}
+
+    {{/* Recommended affiliate tools */}}
+    {{ partial "recommended-tools.html" . }}
+
+    {{/* AdSense ad slot — only renders when adsenseId is configured */}}
+    {{ with .Site.Params.adsenseId }}
+    <div class="ad-slot ad-slot-bottom">
+      <ins class="adsbygoogle"
+        style="display:block"
+        data-ad-client="{{ . }}"
+        data-ad-slot="BOTTOM_SLOT_ID"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
+      <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+    {{ end }}
   </div>
 
   <nav class="article-nav container">
