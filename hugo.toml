@@ -54,17 +54,13 @@ enableEmoji = false
     url = "/blog/"
     weight = 2
   [[menu.main]]
-    name = "Guides"
-    url = "/guides/"
-    weight = 3
-  [[menu.main]]
     name = "Consultancy"
     url = "/consultancy/"
-    weight = 4
+    weight = 3
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 5
+    weight = 4
 
   [[menu.footer]]
     name = "Privacy Policy"
