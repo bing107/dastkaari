@@ -612,13 +612,17 @@ section:not(.hero) .btn-outline:hover {
 .newsletter-form input[type="email"] {
   flex: 1;
   padding: 0.7rem 1rem;
-  border: none;
+  border: 2px solid rgba(255,255,255,0.3);
   border-radius: var(--radius);
   font-size: 0.95rem;
   font-family: var(--font-sans);
+  background: #fff;
+  color: var(--text);
+  min-width: 0;
 }
-.newsletter-form input[type="email"]:focus { outline: 2px solid var(--gold); }
-.newsletter-form .btn { white-space: nowrap; }
+.newsletter-form input[type="email"]::placeholder { color: var(--text-muted); }
+.newsletter-form input[type="email"]:focus { outline: none; border-color: var(--gold); }
+.newsletter-form .btn { white-space: nowrap; padding: 0.7rem 1.4rem; }
 .newsletter-privacy {
   font-size: 0.75rem;
   opacity: 0.7;
