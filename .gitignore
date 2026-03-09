@@ -17,3 +17,12 @@ Thumbs.db
 # Environment files
 .env
 .env.*
+
+# Internal docs — not for public repo
+CLAUDE.md
+.claude/
+context/
+research/
+reports/
+logs/
+scripts/
