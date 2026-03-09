@@ -1,0 +1,105 @@
+baseURL = "https://dastkaari.com"
+title = "Dastkaari — Your Guide to Life in Germany"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+# Theme is built into layouts/ directly (no external theme)
+# theme = ""
+
+# Content settings
+paginate = 10
+summaryLength = 40
+enableRobotsTXT = true
+enableEmoji = false
+
+# Build settings
+[build]
+  writeStats = false
+
+# Taxonomies
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  pillar = "pillars"
+
+# Permalink structure for SEO-friendly URLs
+[permalinks]
+  blog = "/:slug/"
+  guides = "/guides/:slug/"
+
+# Sitemap settings
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# RSS / Output formats
+[outputFormats]
+  [outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "feed"
+
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML", "RSS"]
+
+# Menu
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Guides"
+    url = "/guides/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "Privacy Policy"
+    url = "/privacy/"
+    weight = 1
+  [[menu.footer]]
+    name = "Disclaimer"
+    url = "/disclaimer/"
+    weight = 2
+  [[menu.footer]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+
+# Site params
+[params]
+  description = "Practical guides for Pakistanis moving to Germany — immigration, settling in, careers, and real estate investment."
+  author = "Dastkaari"
+  ogImage = "/images/og-default.png"
+  locale = "en_US"
+  twitterHandle = "@dastkaari"
+
+  # Content pillars for navigation and categorization
+  pillars = ["Immigration & Visas", "Settling In", "Career & Jobs", "Real Estate & Investment", "Community & Culture"]
+
+  # Legal disclaimer shown on immigration content
+  disclaimer = "This is informational content, not legal advice. Always verify with official sources or an immigration lawyer."
+
+  # Google AdSense (uncomment when approved)
+  # adsenseId = "ca-pub-XXXXXXXXXXXXXXXX"
+
+  # Analytics (uncomment when set up)
+  # googleAnalytics = "G-XXXXXXXXXX"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 4
+    ordered = false

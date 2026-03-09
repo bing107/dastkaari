@@ -1,0 +1,47 @@
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-about">
+        <p class="footer-brand">Dastkaari</p>
+        <p>Practical guides for Pakistanis moving to Germany. Built by expats who have been through it.</p>
+      </div>
+      <div class="footer-pillars">
+        <p class="footer-heading">Topics</p>
+        <ul>
+          <li><a href="/categories/immigration-visas/">Immigration &amp; Visas</a></li>
+          <li><a href="/categories/settling-in/">Settling In</a></li>
+          <li><a href="/categories/career-jobs/">Career &amp; Jobs</a></li>
+          <li><a href="/categories/real-estate-investment/">Real Estate &amp; Investment</a></li>
+          <li><a href="/categories/community-culture/">Community &amp; Culture</a></li>
+        </ul>
+      </div>
+      <div class="footer-links">
+        <p class="footer-heading">Links</p>
+        <ul>
+          {{ range .Site.Menus.footer }}
+          <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>&copy; {{ now.Year }} Dastkaari. All rights reserved.</p>
+      <p class="footer-disclaimer">This site provides informational content only, not legal or immigration advice.</p>
+    </div>
+  </div>
+</footer>
+
+{{/* Minimal JS for mobile nav toggle only */}}
+<script>
+(function(){
+  var btn = document.querySelector('.nav-toggle');
+  var nav = document.querySelector('.nav-list');
+  if(btn && nav){
+    btn.addEventListener('click', function(){
+      var expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', !expanded);
+      nav.classList.toggle('open');
+    });
+  }
+})();
+</script>

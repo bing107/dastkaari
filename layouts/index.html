@@ -1,0 +1,75 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <h1>Your Guide to Life in Germany</h1>
+    <p class="hero-subtitle">Practical, honest advice for Pakistanis moving to Germany &mdash; from immigration and visas to careers, housing, and building a life abroad.</p>
+    <p class="hero-cta">
+      <a href="/blog/" class="btn btn-primary">Read the Blog</a>
+      <a href="/guides/" class="btn btn-outline">Browse Guides</a>
+    </p>
+  </div>
+</section>
+
+<section class="home-pillars">
+  <div class="container">
+    <h2>What We Cover</h2>
+    <div class="pillar-grid">
+      <a href="/categories/immigration-visas/" class="pillar-card">
+        <h3>Immigration &amp; Visas</h3>
+        <p>Blue Card, Job Seeker Visa, family reunification, freelancer visa, and the path to permanent residency.</p>
+      </a>
+      <a href="/categories/settling-in/" class="pillar-card">
+        <h3>Settling In</h3>
+        <p>Your first 30 days checklist, health insurance, housing, bureaucracy, and learning German.</p>
+      </a>
+      <a href="/categories/career-jobs/" class="pillar-card">
+        <h3>Career &amp; Jobs</h3>
+        <p>Finding tech jobs, salary expectations, German CV format, interviews, and credential recognition.</p>
+      </a>
+      <a href="/categories/real-estate-investment/" class="pillar-card">
+        <h3>Real Estate &amp; Investment</h3>
+        <p>Property buying guide, mortgages for expats, rental yields, and tax implications.</p>
+      </a>
+      <a href="/categories/community-culture/" class="pillar-card">
+        <h3>Community &amp; Culture</h3>
+        <p>Pakistani life in Germany, community events, raising kids abroad, and dealing with homesickness.</p>
+      </a>
+    </div>
+  </div>
+</section>
+
+{{ $posts := where .Site.RegularPages "Section" "blog" }}
+{{ if $posts }}
+<section class="home-latest">
+  <div class="container">
+    <h2>Latest Articles</h2>
+    <div class="article-list">
+      {{ range first 6 $posts }}
+      <article class="article-card">
+        <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <div class="article-meta-compact">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+          {{ with .Params.categories }}
+          {{ range first 1 . }}<span class="category-tag">{{ . }}</span>{{ end }}
+          {{ end }}
+        </div>
+        <p>{{ .Summary }}</p>
+        <a href="{{ .Permalink }}" class="read-more">Read more &rarr;</a>
+      </article>
+      {{ end }}
+    </div>
+    {{ if gt (len $posts) 6 }}
+    <p class="section-cta"><a href="/blog/" class="btn btn-outline">View All Articles</a></p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+
+<section class="home-trust">
+  <div class="container">
+    <h2>Built by Expats, for Expats</h2>
+    <p>We are Pakistani professionals who have lived in Germany for over 10 years. We have navigated the visa process, learned the bureaucracy, found jobs, bought property, and built a life here. Every guide on this site comes from real experience.</p>
+    <p><a href="/about/">Learn more about us &rarr;</a></p>
+  </div>
+</section>
+{{ end }}

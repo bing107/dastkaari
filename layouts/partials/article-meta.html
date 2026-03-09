@@ -1,0 +1,15 @@
+<div class="article-meta">
+  <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+  <span class="meta-sep">&middot;</span>
+  <span class="reading-time">{{ math.Round (div (countwords .Content) 200.0) }} min read</span>
+  {{ with .Params.categories }}
+  <span class="meta-sep">&middot;</span>
+  {{ range . }}
+  <a href="{{ "categories/" | absURL }}{{ . | urlize }}/" class="article-category">{{ . }}</a>
+  {{ end }}
+  {{ end }}
+  {{ with .Params.lastVerified }}
+  <span class="meta-sep">&middot;</span>
+  <span class="last-verified">Last verified: {{ . }}</span>
+  {{ end }}
+</div>
