@@ -1,8 +1,8 @@
 ---
-title: "Family Reunification Visa Germany from Pakistan - Complete Guide 2026"
+title: "Family Reunification Visa Germany - 2026"
 date: 2026-03-09
 slug: "family-reunification-visa-germany-pakistan"
-description: "Complete guide to family reunification in Germany for Pakistanis. Covers spouse visa, children reunification, A1 German requirement, required documents, the new Consular Services Portal, processing times, costs, and life after arrival."
+description: "Family reunification visa guide for Pakistanis in Germany. Spouse visa, children, A1 German requirement, documents, processing times, and costs."
 tags: ["family reunification", "spouse visa", "germany", "immigration", "pakistan", "family visa"]
 categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]

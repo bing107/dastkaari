@@ -1,8 +1,8 @@
 ---
-title: "German Freelancer Visa for Pakistanis - Freiberufler Guide 2026"
+title: "German Freelancer Visa for Pakistanis 2026"
 date: 2026-03-09
 slug: "freelancer-visa-germany-pakistan-guide"
-description: "Complete guide to the German freelancer visa (Freiberufler) for Pakistani professionals. Eligibility, Freiberufler vs Gewerbe, business plan, documents, taxes, health insurance, and practical tips for IT developers, designers, and consultants."
+description: "German freelancer visa guide for Pakistanis. Freiberufler vs Gewerbe, business plan, documents, taxes, and tips for IT developers and consultants."
 tags: ["freelancer visa", "freiberufler", "self-employed", "germany", "immigration", "pakistan", "freelancing"]
 categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]

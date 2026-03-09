@@ -1,8 +1,8 @@
 ---
-title: "How to Move to Germany from Pakistan - Complete Step-by-Step Guide (2026)"
+title: "Move to Germany from Pakistan - 2026 Guide"
 date: 2026-03-09
 slug: "how-to-move-to-germany-from-pakistan"
-description: "The ultimate guide for Pakistanis moving to Germany in 2026. Covers every visa pathway, document preparation, application process, arrival checklist, settling in, career building, and long-term residency - with links to detailed guides on every topic."
+description: "Step-by-step guide for Pakistanis moving to Germany in 2026. Visa pathways, documents, application process, arrival checklist, and settling in."
 tags: ["germany", "pakistan", "immigration", "moving abroad", "visa", "blue card", "expat guide", "step by step"]
 categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]

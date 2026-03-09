@@ -1,8 +1,8 @@
 ---
-title: "The Complete EU Blue Card Guide for Pakistanis (2026)"
+title: "EU Blue Card Guide for Pakistanis 2026"
 date: 2026-03-09
 slug: "germany-blue-card-guide-pakistanis"
-description: "Step-by-step guide to getting a German EU Blue Card as a Pakistani professional. Eligibility, salary thresholds, required documents, processing times, and tips from expats who have done it."
+description: "Get a German EU Blue Card as a Pakistani. Eligibility, salary thresholds, required documents, processing times, and tips from expats."
 tags: ["blue card", "work visa", "germany", "immigration", "pakistan"]
 categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]

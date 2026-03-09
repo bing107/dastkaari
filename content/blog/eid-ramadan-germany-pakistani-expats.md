@@ -1,8 +1,8 @@
 ---
-title: "Eid & Ramadan in Germany - A Pakistani Expat's Guide"
+title: "Eid & Ramadan in Germany - Pakistani Guide"
 date: 2026-03-09
 slug: "eid-ramadan-germany-pakistani-expats"
-description: "A complete guide to celebrating Ramadan and Eid in Germany as a Pakistani expat. Covers fasting schedules, iftar gatherings, Eid prayers, Qurbani regulations, Zakat tax deductions, finding Pakistani Ramadan essentials, and navigating the holy month while working in Germany."
+description: "Celebrating Ramadan and Eid in Germany as a Pakistani expat. Fasting schedules, iftar gatherings, Eid prayers, Qurbani rules, and community events."
 tags: ["eid germany", "ramadan germany", "pakistani expats germany", "eid ramadan germany pakistani", "iftar germany", "eid prayer germany", "qurbani germany", "halal germany", "ramadan fasting germany"]
 categories: ["Community & Culture"]
 pillars: ["Community & Culture"]

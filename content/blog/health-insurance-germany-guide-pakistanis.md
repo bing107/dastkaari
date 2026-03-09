@@ -1,8 +1,8 @@
 ---
-title: "Health Insurance in Germany: Complete Guide for Pakistani Expats (2026)"
+title: "Health Insurance in Germany for Pakistanis"
 date: 2026-03-09
 slug: "health-insurance-germany-guide-pakistanis"
-description: "Everything Pakistani expats need to know about health insurance in Germany. Public vs private (GKV vs PKV), costs, coverage, top providers, family insurance, and how to enroll."
+description: "Health insurance in Germany for Pakistani expats. Public vs private (GKV vs PKV), costs, coverage, top providers, and how to enroll."
 tags: ["health insurance", "GKV", "PKV", "germany", "expats", "pakistan", "settling in"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

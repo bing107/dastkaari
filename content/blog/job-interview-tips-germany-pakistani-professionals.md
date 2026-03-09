@@ -1,8 +1,8 @@
 ---
-title: "Job Interview Tips for German Companies - Guide for Pakistani Professionals"
+title: "Job Interview Tips for Germany - Pakistanis"
 date: 2026-03-09
 slug: "job-interview-tips-germany-pakistani-professionals"
-description: "Complete guide to acing job interviews with German companies as a Pakistani professional. Covers interview stages, cultural expectations, salary negotiation, behavioral questions, assessment centers, trial days, and how to handle visa and credential discussions."
+description: "Ace job interviews at German companies as a Pakistani. Interview stages, cultural expectations, salary negotiation, and handling visa questions."
 tags: ["job interview", "germany", "career", "pakistani professionals", "interview tips", "german companies", "job interview germany pakistani"]
 categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]

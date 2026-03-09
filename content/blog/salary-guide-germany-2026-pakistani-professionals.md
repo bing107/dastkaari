@@ -1,8 +1,8 @@
 ---
-title: "Germany Salary Guide 2026 - What Pakistani Professionals Can Expect"
+title: "Germany Salary Guide 2026 for Pakistanis"
 date: 2026-03-09
 slug: "salary-guide-germany-2026-pakistani-professionals"
-description: "Detailed 2026 salary guide for Pakistani professionals in Germany. Average salaries by industry, city, and experience level. Tax classes, net pay breakdown, Blue Card thresholds, negotiation tips, and benefits explained."
+description: "2026 salary guide for Pakistanis in Germany. Average salaries by industry and city, tax classes, net pay breakdown, and negotiation tips."
 tags: ["salary", "germany", "career", "jobs", "pakistani professionals", "blue card", "tax", "negotiation"]
 categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]

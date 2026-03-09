@@ -1,8 +1,8 @@
 ---
-title: "Dealing with the Ausländerbehörde - A Pakistani Expat's Survival Guide"
+title: "Ausländerbehörde Guide for Pakistani Expats"
 date: 2026-03-09
 slug: "auslaenderbehoerde-guide-pakistani-expats"
-description: "Everything Pakistanis need to know about the Ausländerbehörde (Foreigners' Registration Office) in Germany - booking appointments, required documents, wait times by city, your rights, handling delays, and tips for a smooth visit."
+description: "Navigate the Ausländerbehörde as a Pakistani expat. Booking appointments, required documents, wait times by city, your rights, and tips."
 tags: ["ausländerbehörde", "foreigners office", "immigration office", "germany", "pakistan", "residence permit", "settling in", "bureaucracy", "fiktionsbescheinigung"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

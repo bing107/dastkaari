@@ -2,7 +2,7 @@
 title: "About Dastkaari"
 date: 2026-03-09
 slug: "about"
-description: "We're Pakistani professionals in Berlin helping fellow Pakistanis navigate the move to Germany — with practical, honest, and accurate advice on immigration, careers, real estate, and daily life."
+description: "Pakistani professionals in Berlin helping fellow Pakistanis navigate the move to Germany with honest advice on immigration, careers, and daily life."
 draft: false
 layout: "single"
 ---

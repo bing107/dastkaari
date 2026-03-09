@@ -1,8 +1,8 @@
 ---
-title: "Your First 30 Days in Germany: Complete Checklist for Pakistanis"
+title: "First 30 Days in Germany - Pakistani Checklist"
 date: 2026-03-09
 slug: "first-30-days-germany-checklist-pakistanis"
-description: "A practical, day-by-day checklist for Pakistanis arriving in Germany. Covers Anmeldung, bank accounts, health insurance, tax ID, finding halal food, Pakistani community, and everything you need to settle in during your first month."
+description: "Day-by-day checklist for Pakistanis arriving in Germany. Anmeldung, bank account, health insurance, tax ID, halal food, and settling in tips."
 tags: ["settling in", "checklist", "germany", "pakistan", "expat life", "anmeldung", "first days in germany"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

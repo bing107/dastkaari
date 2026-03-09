@@ -2,6 +2,7 @@
 title: "Privacy Policy"
 date: 2026-03-09
 slug: "privacy"
+description: "How Dastkaari handles your data. We use Google Analytics and AdSense but collect no personal information. Read our full privacy policy."
 draft: false
 ---
 

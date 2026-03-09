@@ -1,8 +1,8 @@
 ---
-title: "Finding Housing in Germany - Complete Guide for Pakistani Expats"
+title: "Finding Housing in Germany for Pakistanis"
 date: 2026-03-09
 slug: "finding-housing-germany-guide-pakistanis"
-description: "A practical guide for Pakistanis on finding apartments and housing in Germany. Covers rental platforms, Schufa scores, required documents, tenant rights, avoiding scams, costs by city, and tips for getting through a competitive market as an expat."
+description: "Find apartments in Germany as a Pakistani expat. Rental platforms, Schufa, required documents, tenant rights, costs by city, and scam avoidance."
 tags: ["housing", "apartment", "germany", "pakistan", "expat life", "settling in", "renting", "schufa", "WG", "accommodation"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

@@ -2,6 +2,7 @@
 title: "Contact Us"
 date: 2026-03-09
 slug: "contact"
+description: "Get in touch with the Dastkaari team. Questions about moving to Germany, content suggestions, corrections, or partnership inquiries welcome."
 draft: false
 ---
 

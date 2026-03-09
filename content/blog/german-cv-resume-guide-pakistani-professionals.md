@@ -1,8 +1,8 @@
 ---
-title: "German CV & Resume Guide for Pakistani Professionals - Format, Tips & Examples"
+title: "German CV Guide for Pakistani Professionals"
 date: 2026-03-09
 slug: "german-cv-resume-guide-pakistani-professionals"
-description: "Complete guide to writing a German CV (Lebenslauf) for Pakistani professionals. Learn the correct format, required sections, photo rules, ATS tips, and common mistakes to avoid when applying for jobs in Germany."
+description: "Write a German CV (Lebenslauf) that gets interviews. Correct format, required sections, photo rules, ATS tips, and mistakes to avoid for Pakistanis."
 tags: ["german cv", "lebenslauf", "resume", "job application", "career", "germany", "pakistan", "german cv format pakistani"]
 categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]

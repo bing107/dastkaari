@@ -1,8 +1,8 @@
 ---
-title: "Learning German as a Pakistani - Realistic Guide, Resources & Timeline 2026"
+title: "Learn German as a Pakistani - 2026 Guide"
 date: 2026-03-09
 slug: "learn-german-guide-pakistanis"
-description: "A practical guide for Pakistanis learning German - covering CEFR levels, realistic timelines, free and paid resources, Goethe Institut Pakistan, Urdu-to-German advantages, and which level you need for your visa, PR, or career."
+description: "Learn German as a Pakistani. CEFR levels, realistic timelines, free and paid resources, Urdu advantages, and which level you need for visa or career."
 tags: ["learn german", "german language", "pakistan", "expat life", "settling in", "goethe institut", "CEFR", "language courses", "integration course"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

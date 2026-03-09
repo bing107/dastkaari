@@ -1,8 +1,8 @@
 ---
-title: "German Driver's License for Pakistanis - Complete Guide 2026"
+title: "German Driver's License for Pakistanis 2026"
 date: 2026-03-09
 slug: "german-drivers-license-guide-pakistanis"
-description: "Everything Pakistanis need to know about getting a German driver's license in 2026. Covers Pakistani license validity, Fahrschule process, theory and practical tests, costs (EUR 2,500-4,000), required documents, and key German traffic rules."
+description: "Getting a German driver's license as a Pakistani in 2026. Fahrschule process, theory and practical tests, costs, documents, and traffic rules."
 tags: ["drivers license", "germany", "pakistan", "fahrschule", "settling in", "driving in germany", "expat life"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

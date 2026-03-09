@@ -1,8 +1,8 @@
 ---
-title: "Sending Money to Pakistan from Germany - Cheapest Ways Compared (2026)"
+title: "Send Money to Pakistan from Germany - 2026"
 date: 2026-03-09
 slug: "send-money-pakistan-germany-cheapest-ways"
-description: "Compare the cheapest ways to send money from Germany to Pakistan in 2026. Wise, Remitly, Western Union, bank transfers - real fee comparisons, exchange rates, and step-by-step setup guides."
+description: "Cheapest ways to send money from Germany to Pakistan in 2026. Wise, Remitly, Western Union compared with real fees and exchange rates."
 tags: ["remittance", "send money", "pakistan", "germany", "wise", "remitly", "western union", "expat finance"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

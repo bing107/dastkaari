@@ -1,8 +1,8 @@
 ---
-title: "Germany Job Seeker Visa for Pakistanis: Complete 2026 Guide"
+title: "Germany Job Seeker Visa for Pakistanis 2026"
 date: 2026-03-09
 slug: "germany-job-seeker-visa-pakistan"
-description: "Everything Pakistanis need to know about the Germany Job Seeker Visa - eligibility, required documents, application process, costs, and tips from expats who have been through it."
+description: "Germany Job Seeker Visa guide for Pakistanis. Eligibility, required documents, application process, costs, and real tips from expats."
 tags: ["job seeker visa", "germany", "immigration", "pakistan", "work visa", "job search"]
 categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]

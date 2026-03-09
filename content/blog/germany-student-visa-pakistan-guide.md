@@ -1,8 +1,8 @@
 ---
-title: "Germany Student Visa from Pakistan - Complete Guide 2026"
+title: "Germany Student Visa from Pakistan 2026"
 date: 2026-03-09
 slug: "germany-student-visa-pakistan-guide"
-description: "Everything Pakistani students need to know about getting a German student visa in 2026 - eligibility, documents, blocked account, embassy process, costs, and life after arrival."
+description: "German student visa guide for Pakistanis 2026. Eligibility, documents, blocked account, embassy process, costs, and life after arrival."
 tags: ["student visa", "germany", "pakistan", "study abroad", "blocked account", "uni-assist", "DAAD"]
 categories: ["Immigration & Visas"]
 draft: false

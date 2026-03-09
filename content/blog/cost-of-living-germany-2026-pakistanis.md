@@ -1,8 +1,8 @@
 ---
-title: "Cost of Living in Germany 2026: Complete Breakdown for Pakistanis"
+title: "Cost of Living in Germany 2026 for Pakistanis"
 date: 2026-03-09
 slug: "cost-of-living-germany-2026-pakistanis"
-description: "Detailed cost of living breakdown for Pakistanis in Germany - monthly budgets, city comparisons, rent, groceries, transport, insurance, and money-saving tips with real 2026 numbers."
+description: "Cost of living breakdown for Pakistanis in Germany. Monthly budgets, city comparisons, rent, groceries, transport, and tips with real 2026 numbers."
 tags: ["cost of living", "germany", "pakistan", "budget", "expat life", "money"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

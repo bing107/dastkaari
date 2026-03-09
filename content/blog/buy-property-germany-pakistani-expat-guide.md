@@ -1,8 +1,8 @@
 ---
-title: "Buying Property in Germany as a Pakistani Expat - Complete Investment Guide 2026"
+title: "Buy Property in Germany as a Pakistani Expat"
 date: 2026-03-09
 slug: "buy-property-germany-pakistani-expat-guide"
-description: "Complete guide for Pakistani expats buying property in Germany. Covers mortgage eligibility, purchase costs, city-by-city analysis, tax implications, halal financing options, and step-by-step buying process."
+description: "Guide for Pakistani expats buying property in Germany. Mortgage eligibility, costs, city analysis, tax implications, and halal financing options."
 tags: ["real estate", "property", "investment", "germany", "pakistan", "mortgage", "expat"]
 categories: ["Real Estate & Investment"]
 pillars: ["Real Estate & Investment"]

@@ -1,8 +1,8 @@
 ---
-title: "Networking in Germany - A Pakistani Professional's Guide"
+title: "Networking in Germany for Pakistanis"
 date: 2026-03-09
 slug: "networking-germany-guide-pakistani-professionals"
-description: "Complete guide to professional networking in Germany for Pakistanis - LinkedIn, XING, meetups, professional associations, networking etiquette, and practical scripts to build your career network."
+description: "Professional networking in Germany for Pakistanis. LinkedIn, XING, meetups, networking etiquette, and practical scripts to build your career network."
 tags: ["networking", "germany", "pakistan", "career", "linkedin", "xing", "professional development", "expat"]
 categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]

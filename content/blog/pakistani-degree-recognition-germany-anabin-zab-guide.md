@@ -1,8 +1,8 @@
 ---
-title: "Pakistani Degree Recognition in Germany - anabin, ZAB & Credential Evaluation Guide"
+title: "Pakistani Degree Recognition in Germany"
 date: 2026-03-09
 slug: "pakistani-degree-recognition-germany-anabin-zab-guide"
-description: "Complete guide to getting your Pakistani degree recognized in Germany. Learn how to use the anabin database, apply for a ZAB Statement of Comparability, understand HEC attestation requirements, and handle credential evaluation for regulated and unregulated professions."
+description: "Get your Pakistani degree recognized in Germany. How to use anabin, apply for ZAB Statement of Comparability, and HEC attestation requirements."
 tags: ["degree recognition", "anabin", "ZAB", "credential evaluation", "pakistan", "germany", "career", "blue card", "HEC"]
 categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]

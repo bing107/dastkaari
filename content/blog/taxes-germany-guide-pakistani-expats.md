@@ -1,8 +1,8 @@
 ---
-title: "Taxes in Germany for Pakistani Expats - Complete Guide 2026"
+title: "Taxes in Germany for Pakistani Expats 2026"
 date: 2026-03-09
 slug: "taxes-germany-guide-pakistani-expats"
-description: "Everything Pakistani expats need to know about German taxes in 2026. Income tax brackets, tax classes, social contributions, deductions, double taxation agreement with Pakistan, Steuererklärung filing, freelancer taxes, and net salary examples."
+description: "German taxes explained for Pakistani expats. Income tax brackets, tax classes, deductions, double taxation with Pakistan, and Steuererklärung."
 tags: ["taxes", "germany", "income tax", "tax return", "deductions", "pakistani expat", "Steuererklärung", "double taxation", "freelancer", "Kindergeld"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

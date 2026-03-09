@@ -1,8 +1,8 @@
 ---
-title: "German Permanent Residency (Niederlassungserlaubnis) - Fast-Track Guide for Pakistanis"
+title: "German Permanent Residency for Pakistanis"
 date: 2026-03-09
 slug: "permanent-residency-germany-niederlassungserlaubnis-guide"
-description: "Complete guide to getting permanent residency in Germany as a Pakistani. All pathways from Blue Card fast-track (21 months) to standard 5-year route, required documents, costs, and dual nationality rules."
+description: "Get permanent residency in Germany as a Pakistani. Blue Card fast-track (21 months), standard 5-year route, documents, costs, and dual nationality."
 tags: ["permanent residency", "niederlassungserlaubnis", "settlement permit", "germany", "immigration", "pakistan", "blue card", "PR germany"]
 categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]

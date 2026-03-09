@@ -2,6 +2,7 @@
 title: "Disclaimer"
 date: 2026-03-09
 slug: "disclaimer"
+description: "Dastkaari provides informational content only, not legal or immigration advice. Always verify with official sources or a qualified lawyer."
 draft: false
 ---
 

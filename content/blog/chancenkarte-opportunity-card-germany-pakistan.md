@@ -1,8 +1,8 @@
 ---
-title: "Germany Chancenkarte (Opportunity Card) for Pakistanis - Complete Guide 2026"
+title: "Germany Chancenkarte for Pakistanis 2026"
 date: 2026-03-09
 slug: "chancenkarte-opportunity-card-germany-pakistan"
-description: "Complete guide to Germany's Chancenkarte (Opportunity Card) for Pakistanis. Learn the points system, eligibility, documents, costs, and how to apply from Pakistan in 2026."
+description: "Germany Chancenkarte guide for Pakistanis. Learn the points system, eligibility, documents, costs, and how to apply from Pakistan in 2026."
 tags: ["Chancenkarte", "Opportunity Card", "Germany Visa", "Pakistan", "Immigration", "Points System", "Job Search"]
 categories: ["Immigration & Visas"]
 draft: false

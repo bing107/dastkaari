@@ -1,8 +1,8 @@
 ---
-title: "German Bureaucracy Survival Guide for Pakistani Expats"
+title: "German Bureaucracy Guide for Pakistanis"
 date: 2026-03-09
 slug: "german-bureaucracy-survival-guide-pakistanis"
-description: "A practical guide to dealing with German bureaucracy as a Pakistani. Learn about key government offices like the Bürgeramt and Ausländerbehörde, essential documents, Anmeldung, tax ID, appointment booking, official letters, appeals, and useful German phrases to survive the Amt."
+description: "Survive German bureaucracy as a Pakistani. Key offices, Anmeldung, tax ID, appointment booking, official letters, and useful German phrases."
 tags: ["german bureaucracy", "settling in", "germany", "pakistan", "expat life", "anmeldung", "ausländerbehörde", "bürgeramt", "government offices", "german paperwork"]
 categories: ["Settling In"]
 pillars: ["Settling In"]

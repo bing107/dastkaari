@@ -1,8 +1,8 @@
 ---
-title: "Pakistani Community in Germany - Restaurants, Mosques, Grocery Stores & Events by City"
+title: "Pakistani Community in Germany - City Guide"
 date: 2026-03-09
 slug: "pakistani-community-germany-city-guide"
-description: "A city-by-city guide to the Pakistani community in Germany. Find Pakistani restaurants, halal grocery stores, mosques with Urdu khutbah, community organizations, and cultural events in Berlin, Frankfurt, Munich, Hamburg, Cologne, Stuttgart, and Düsseldorf."
+description: "Find Pakistani restaurants, halal stores, mosques, and community events in Berlin, Frankfurt, Munich, Hamburg, Cologne, and other German cities."
 tags: ["pakistani community germany", "pakistani restaurants germany", "halal grocery stores germany", "mosques germany urdu", "pakistani expats", "eid germany", "ramadan germany", "pakistani diaspora"]
 categories: ["Community & Culture"]
 pillars: ["Community & Culture"]
