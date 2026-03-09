@@ -593,45 +593,52 @@ section:not(.hero) .btn-outline:hover {
 }
 
 /* --- Newsletter --- */
-.newsletter-box {
+.newsletter-section {
   background: linear-gradient(135deg, var(--green) 0%, var(--green-dark) 100%);
+  padding: 3rem 0;
+}
+.newsletter-box {
   color: #fff;
-  border-radius: var(--radius);
-  padding: 2rem 1.5rem;
-  margin: 2.5rem 0;
   text-align: center;
 }
-.newsletter-box h3 { font-size: 1.25rem; margin-bottom: 0.5rem; }
-.newsletter-content > p { opacity: 0.9; font-size: 0.92rem; margin-bottom: 1.25rem; }
-.newsletter-form {
+.newsletter-box h3 { font-size: 1.5rem; margin-bottom: 1rem; }
+.newsletter-box > p { opacity: 0.92; font-size: 0.95rem; max-width: 550px; margin: 0 auto 1.5rem; line-height: 1.6; }
+.newsletter-form { max-width: 480px; margin: 0 auto; }
+.newsletter-input-group {
   display: flex;
   gap: 0.5rem;
-  max-width: 480px;
-  margin: 0 auto;
 }
-.newsletter-form input[type="email"] {
+.newsletter-input-group input[type="email"] {
   flex: 1;
-  padding: 0.7rem 1rem;
+  padding: 0.75rem 1rem;
   border: 2px solid rgba(255,255,255,0.3);
   border-radius: var(--radius);
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-family: var(--font-sans);
   background: #fff;
   color: var(--text);
   min-width: 0;
 }
-.newsletter-form input[type="email"]::placeholder { color: var(--text-muted); }
-.newsletter-form input[type="email"]:focus { outline: none; border-color: var(--gold); }
-.newsletter-form .btn { white-space: nowrap; padding: 0.7rem 1.4rem; }
+.newsletter-input-group input[type="email"]::placeholder { color: var(--text-muted); }
+.newsletter-input-group input[type="email"]:focus { outline: none; border-color: var(--gold); }
+.newsletter-input-group .btn { white-space: nowrap; padding: 0.75rem 1.5rem; font-size: 1rem; }
 .newsletter-privacy {
-  font-size: 0.75rem;
+  font-size: 0.78rem;
   opacity: 0.7;
   margin-top: 0.75rem;
 }
 .newsletter-privacy a { color: var(--gold-light); }
 
+/* Newsletter inside articles */
+.article-body-container .newsletter-section {
+  border-radius: var(--radius);
+  margin: 2.5rem -1.25rem;
+  padding: 2rem 1.25rem;
+}
+
 @media (max-width: 500px) {
-  .newsletter-form { flex-direction: column; }
+  .newsletter-input-group { flex-direction: column; }
+  .article-body-container .newsletter-section { margin: 2.5rem 0; }
 }
 
 /* --- Utility --- */
