@@ -6,7 +6,7 @@ description: "How to get a mortgage in Germany as a non-EU resident. Down paymen
 tags: ["mortgage", "real estate", "property", "germany", "non-eu", "expat", "financing", "baufinanzierung"]
 categories: ["Real Estate & Investment"]
 pillars: ["Real Estate & Investment"]
-draft: true
+draft: false
 author: "Dastkaari"
 lastVerified: "2026-07-30"
 showDisclaimer: true
