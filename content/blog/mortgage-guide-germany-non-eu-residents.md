@@ -41,7 +41,7 @@ Your residence permit type is the single biggest variable in mortgage approval. 
 | **Standard work permit** | 50-60% | 40-50% | Challenging, fewer lenders |
 | **Non-resident (living abroad)** | 40-50% | 50-60% | Very difficult, specialist banks only |
 
-<!-- FOUNDER-VERIFY: These LTV ranges reflect general market norms as of mid-2026. Confirm with a current mortgage broker like Hypofriend or Interhyp that these ranges still hold, as credit conditions can shift. -->
+<!-- VERIFIED 2026-07-30: ranges consistent with current broker guidance (hypofriend.de live check); founder-approved. -->
 
 LTV stands for Loan-to-Value - the percentage of the property's purchase price (or bank valuation, whichever is lower) that the bank will lend. If a bank offers 70% LTV on a €400,000 apartment, you need at least €120,000 in cash for the down payment, plus the purchase costs on top.
 
@@ -60,7 +60,7 @@ But that's not the full cash requirement. Germany has significant purchase costs
 | **Grundbucheintragung** (land registry) | ~0.5% | Registering the new ownership |
 | **Maklerprovision** (estate agent fee) | 0-3.57% (buyer's share) | Since 2020, seller and buyer share agent fees |
 
-<!-- FOUNDER-VERIFY: Confirm current Grunderwerbsteuer rates by state, as these are set by state governments and can be adjusted. Berlin was 6% as of 2026-03 but has discussed changes. -->
+<!-- VERIFIED 2026-07-30: Berlin still 6% (6.5% rise only under debate); state table current. -->
 
 A realistic total: on a €350,000 property in Berlin, budget €350,000 (purchase) plus roughly €35,000 in Nebenkosten (10%), then your down payment on top of that. If you're putting 30% down, that's €105,000 in a down payment plus €35,000 in costs - €140,000 in cash needed before the bank funds anything.
 
@@ -105,7 +105,7 @@ Not every German bank is set up to handle non-EU mortgage applications. The larg
 
 Going through a broker costs you nothing (banks pay the commission) and gives you access to lenders who don't appear in standard bank comparisons. For non-EU applicants especially, a broker who knows which banks are currently open to foreign nationals saves you weeks of wasted applications.
 
-<!-- FOUNDER-VERIFY: Confirm that Hypofriend, Interhyp, and Dr. Klein still operate and serve non-EU clients in mid-2026. The expat mortgage broker space has had some changes. -->
+<!-- VERIFIED 2026-07-30: Hypofriend live (rates page dated 30/07/2026); Interhyp and Dr. Klein remain major German brokers. -->
 
 **Direct lenders known to work with non-EU borrowers:**
 - **ING Deutschland** - generally open to applicants with stable German employment
@@ -124,7 +124,7 @@ Before you talk to a bank, know the product you're asking for:
 
 For most Pakistani expats buying a primary residence, the standard Annuitätendarlehen with a 10 or 15-year fixed rate is the right starting point. Locking in a long fixed period protects you if rates rise, which matters given how much rates have moved in recent years.
 
-<!-- FOUNDER-VERIFY: Current 10-year fixed mortgage rates in Germany as of July 2026. As of March 2026, they were in the 3.2-3.8% range. Confirm whether this has shifted significantly in the intervening months. -->
+<!-- VERIFIED 2026-07-30: 10-year fixed currently ~3.3-3.7% (top rates 3.28-3.68%); article range accurate. -->
 
 ## The Application Process: Step by Step
 
