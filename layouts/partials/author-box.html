@@ -1,0 +1,23 @@
+{{/* Author byline + bio box — E-E-A-T signal for YMYL (immigration/visa/tax) content.
+     Resolves the article's `author` front-matter (default "Dastkaari") against
+     data/authors.yaml; falls back to the primary `dastkaari` profile. */}}
+{{ $key := .Params.author | default .Site.Params.author | urlize }}
+{{ $author := index .Site.Data.authors $key }}
+{{ if not $author }}{{ $author = index .Site.Data.authors "dastkaari" }}{{ end }}
+{{ with $author }}
+<aside class="author-box" aria-label="About the author">
+  <div class="author-box-inner">
+    <p class="author-byline">Written by <span class="author-name">{{ .name }}</span>{{ with .title }} <span class="author-title">&middot; {{ . }}</span>{{ end }}</p>
+    <p class="author-bio">{{ .bio }}</p>
+    {{ with .credentials }}<p class="author-credentials"><strong>Background:</strong> {{ . }}</p>{{ end }}
+    <p class="author-links">
+      {{ with .location }}<span class="author-location">{{ . }}</span>{{ end }}
+      {{ if hasPrefix .linkedin "http" }} &middot; <a href="{{ .linkedin }}" rel="noopener author" target="_blank">LinkedIn</a>{{ end }}
+      {{ with .email }} &middot; <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
+    </p>
+  </div>
+  {{ with $.Params.lastVerified }}
+  <p class="author-last-verified">Immigration content &mdash; last verified {{ . }} against official sources (<a href="https://www.bamf.de/" rel="noopener nofollow" target="_blank">BAMF</a>, <a href="https://www.make-it-in-germany.com/" rel="noopener nofollow" target="_blank">Make it in Germany</a>). See our <a href="/editorial-policy/">editorial policy</a>.</p>
+  {{ end }}
+</aside>
+{{ end }}

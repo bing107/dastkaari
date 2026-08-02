@@ -6,6 +6,7 @@ description: "Open a bank account in Germany as a Pakistani. Compare N26, Wise, 
 tags: ["bank account", "banking", "Germany", "Pakistani expats", "N26", "Wise", "Schufa", "remittance", "settling in"]
 categories: ["Settling In"]
 draft: false
+author: "Dastkaari"
 lastVerified: "March 2026"
 showDisclaimer: false
 showTOC: true

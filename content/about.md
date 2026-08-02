@@ -13,6 +13,18 @@ We are a small team of Pakistani professionals living in Berlin. Between us, we 
 
 We know what it feels like to land at Frankfurt airport with a suitcase and a hundred unanswered questions.
 
+## Who Writes Dastkaari
+
+<!-- FOUNDER: replace the [[TOKENS]] below with your real details (same find-and-replace as data/authors.yaml). Do not invent a name. -->
+
+Dastkaari is written and edited by **[[FOUNDER_NAME]]**, our founder.
+
+[[FOUNDER_NAME]] moved from Pakistan to Germany more than a decade ago and went through the entire journey personally — assembling the visa file, registering an address (Anmeldung), navigating the Ausländerbehörde, opening a German bank account, and building a career in Berlin, where they live today.
+
+**Background & credentials:** [[FOUNDER_CREDENTIALS]]
+
+You can connect on [LinkedIn]([[FOUNDER_LINKEDIN]]) or reach the whole team at **hello@dastkaari.com**. Every immigration guide carries a byline and an author bio so you always know who stands behind the advice — because on visa and legal topics, accountability matters.
+
 ## Why We Built Dastkaari
 
 When we first moved to Germany, we spent weeks piecing together advice from scattered forum posts, outdated blog articles, and well-meaning but sometimes wrong WhatsApp forwards. The information was either too generic ("how to move to Europe") or written by people who had never actually gone through the process as a Pakistani.
@@ -47,6 +59,8 @@ Every article we publish that covers immigration, visas, or legal topics follows
 - When German immigration law changes, we update our articles
 
 We would rather leave something out than publish something wrong.
+
+For the full detail — our sourcing standards, how we handle numbers, our update cadence, and our corrections process — see our [Editorial Policy & How We Verify](/editorial-policy/).
 
 ## Get Started
 

@@ -1,4 +1,9 @@
 <div class="article-meta">
+  {{ $ak := .Params.author | default .Site.Params.author | urlize }}
+  {{ $a := index .Site.Data.authors $ak }}
+  {{ if not $a }}{{ $a = index .Site.Data.authors "dastkaari" }}{{ end }}
+  {{ with $a }}<span class="article-byline">By {{ .name }}</span>
+  <span class="meta-sep">&middot;</span>{{ end }}
   <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
   <span class="meta-sep">&middot;</span>
   <span class="reading-time">{{ math.Round (div (countwords .Content) 200.0) }} min read</span>

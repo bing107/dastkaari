@@ -6,6 +6,7 @@ description: "German student visa guide for Pakistanis 2026. Eligibility, docume
 tags: ["student visa", "germany", "pakistan", "study abroad", "blocked account", "uni-assist", "DAAD"]
 categories: ["Immigration & Visas"]
 draft: false
+author: "Dastkaari"
 lastVerified: "March 2026"
 showDisclaimer: true
 showTOC: true

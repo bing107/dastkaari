@@ -695,3 +695,31 @@ section:not(.hero) .btn-outline:hover {
   clip: rect(0,0,0,0);
   border: 0;
 }
+
+/* --- Author box (E-E-A-T byline + bio) --- */
+.article-byline { font-weight: 600; color: var(--text-light); }
+.author-box {
+  margin: 2.5rem 0;
+  padding: 1.5rem;
+  background: var(--green-light);
+  border: 1px solid var(--border);
+  border-left: 4px solid var(--green);
+  border-radius: var(--radius);
+}
+.author-box .author-byline {
+  margin: 0 0 0.5rem;
+  font-size: 1.05rem;
+}
+.author-box .author-name { color: var(--green-dark); font-weight: 700; }
+.author-box .author-title { color: var(--text-light); font-weight: 400; font-size: 0.95rem; }
+.author-box .author-bio { margin: 0 0 0.6rem; color: var(--text); line-height: 1.6; }
+.author-box .author-credentials { margin: 0 0 0.6rem; font-size: 0.92rem; color: var(--text-light); }
+.author-box .author-links { margin: 0; font-size: 0.9rem; color: var(--text-muted); }
+.author-box .author-location { color: var(--text-muted); }
+.author-last-verified {
+  margin: 0.9rem 0 0;
+  padding-top: 0.9rem;
+  border-top: 1px dashed var(--border);
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}

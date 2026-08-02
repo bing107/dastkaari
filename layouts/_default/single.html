@@ -23,6 +23,9 @@
       {{ .Content }}
     </div>
 
+    {{/* Author byline + bio box — E-E-A-T for YMYL content */}}
+    {{ partial "author-box.html" . }}
+
     {{ if .Params.showDisclaimer }}
     <div class="disclaimer-box">
       <p><strong>Disclaimer:</strong> {{ .Site.Params.disclaimer }}</p>

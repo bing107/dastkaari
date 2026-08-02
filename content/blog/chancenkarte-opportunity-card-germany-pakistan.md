@@ -6,6 +6,7 @@ description: "Germany Chancenkarte guide for Pakistanis. Learn the points system
 tags: ["Chancenkarte", "Opportunity Card", "Germany Visa", "Pakistan", "Immigration", "Points System", "Job Search"]
 categories: ["Immigration & Visas"]
 draft: false
+author: "Dastkaari"
 lastVerified: "March 2026"
 showDisclaimer: true
 showTOC: true
