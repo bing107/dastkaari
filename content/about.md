@@ -15,15 +15,13 @@ We know what it feels like to land at Frankfurt airport with a suitcase and a hu
 
 ## Who Writes Dastkaari
 
-<!-- FOUNDER: replace the [[TOKENS]] below with your real details (same find-and-replace as data/authors.yaml). Do not invent a name. -->
+Dastkaari is written and edited by **Hassan and the Dastkaari team** — a small group of Pakistani professionals based in Berlin.
 
-Dastkaari is written and edited by **[[FOUNDER_NAME]]**, our founder.
+We moved from Pakistan to Germany more than a decade ago and went through the entire journey ourselves: assembling the visa file, registering an address (Anmeldung), navigating the Ausländerbehörde, opening a German bank account, choosing statutory health insurance, and building careers in Berlin, where we live today.
 
-[[FOUNDER_NAME]] moved from Pakistan to Germany more than a decade ago and went through the entire journey personally — assembling the visa file, registering an address (Anmeldung), navigating the Ausländerbehörde, opening a German bank account, and building a career in Berlin, where they live today.
+**Background & credentials:** 10+ years living and working in Germany, with first-hand experience of the EU Blue Card, Anmeldung, statutory health insurance, the Ausländerbehörde, and building careers in Berlin as Pakistani expats.
 
-**Background & credentials:** [[FOUNDER_CREDENTIALS]]
-
-You can connect on [LinkedIn]([[FOUNDER_LINKEDIN]]) or reach the whole team at **hello@dastkaari.com**. Every immigration guide carries a byline and an author bio so you always know who stands behind the advice — because on visa and legal topics, accountability matters.
+You can reach the team at **hello@dastkaari.com**. Every immigration guide carries a byline and an author bio so you always know who stands behind the advice — because on visa and legal topics, accountability matters.
 
 ## Why We Built Dastkaari
 

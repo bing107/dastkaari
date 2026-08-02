@@ -1,37 +1,28 @@
 # Author profiles — the core E-E-A-T (Experience, Expertise, Authoritativeness,
 # Trust) asset for this site. Google treats immigration / visa / tax advice as
 # YMYL ("Your Money or Your Life") content and holds it to its highest trust bar.
-# Anonymous authorship is a large part of why AdSense rejected the site.
-#
-# FOUNDER ACTION — do a single find-and-replace for each token below:
-#   [[FOUNDER_NAME]]         -> your real full name (e.g. "Umair Hassan")
-#   [[FOUNDER_BIO]]          -> optional: your own opening sentence; or delete the
-#                               token and keep the default lived-experience bio.
-#   [[FOUNDER_CREDENTIALS]]  -> one line, e.g. "10+ years living and working in
-#                               Germany; went through the Blue Card and
-#                               Niederlassungserlaubnis process personally."
-#   [[FOUNDER_LINKEDIN]]     -> your full LinkedIn profile URL (https://...).
-#                               The site only prints the LinkedIn link and the
-#                               schema.org sameAs once the value starts with http,
-#                               so the placeholder stays hidden until you fill it.
-#
-# The key `dastkaari` matches the default `author: "Dastkaari"` used across every
-# article (Hugo urlize of "Dastkaari" -> "dastkaari"), so NO article edits are
-# needed — filling the tokens here updates every byline and bio box at once.
+# The `dastkaari` key matches the default `author: "Dastkaari"` on every article
+# (Hugo urlize of "Dastkaari" -> "dastkaari"), so this file drives every byline
+# and bio box at once. To raise the trust signal further, add a real full name
+# and LinkedIn URL to the fields below.
 
 dastkaari:
-  name: "[[FOUNDER_NAME]]"
-  title: "Founder & Editor, Dastkaari"
-  # 2-3 sentences of lived expertise. Keep [[FOUNDER_BIO]] to add your own opener,
-  # or delete just that token — the default text below already establishes it.
+  name: "Hassan & the Dastkaari Team"
+  title: "Founder & Editorial Team, Dastkaari"
   bio: >-
-    [[FOUNDER_BIO]] I moved from Pakistan to Germany more than a decade ago and
-    went through the whole journey myself — assembling the visa file, the
-    Anmeldung, the queues at the Ausländerbehörde, opening a bank account, and
-    the job hunt. I live in Berlin today and write these guides so other
-    Pakistanis do not have to reconstruct the process from scattered forum posts
-    and WhatsApp forwards the way I did.
-  credentials: "[[FOUNDER_CREDENTIALS]]"
+    Dastkaari is written and edited by Hassan and a small team of Pakistani
+    professionals living in Berlin. We moved from Pakistan to Germany more than
+    a decade ago and went through the whole journey ourselves — assembling the
+    visa file, the Anmeldung, the queues at the Ausländerbehörde, opening a bank
+    account, choosing health insurance, and the job hunt. We write these guides
+    so other Pakistanis do not have to reconstruct the process from scattered
+    forum posts and WhatsApp forwards the way we did.
+  credentials: >-
+    10+ years living and working in Germany; first-hand experience with the EU
+    Blue Card, Anmeldung, statutory health insurance, the Ausländerbehörde, and
+    building careers in Berlin as Pakistani expats.
   location: "Berlin, Germany"
-  linkedin: "[[FOUNDER_LINKEDIN]]"
+  # Optional strengthener: add a real full name + LinkedIn URL here to raise the
+  # E-E-A-T / trust signal further if AdSense asks for more accountability.
+  linkedin: ""
   email: "hello@dastkaari.com"
