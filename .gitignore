@@ -26,3 +26,7 @@ research/
 reports/
 logs/
 scripts/
+
+# Runtime lock files (flock single-instance guards)
+.run.lock
+.twitter.lock
