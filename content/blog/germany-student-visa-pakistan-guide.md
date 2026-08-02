@@ -7,7 +7,7 @@ tags: ["student visa", "germany", "pakistan", "study abroad", "blocked account",
 categories: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -368,7 +368,7 @@ A "half day" means up to 4 hours of work. Anything over 4 hours counts as a full
 |----------|-------------------|-------|
 | Werkstudent (working student) | 13-20 | Best option - field-relevant, good for CV |
 | HiWi (university research assistant) | 12-16 | Does not count toward work limit |
-| Minijob (retail, gastro, delivery) | 12.82 (minimum wage 2026) | Capped at EUR 556/month tax-free |
+| Minijob (retail, gastro, delivery) | 13.90 (minimum wage 2026) | Capped at EUR 603/month tax-free |
 | Freelance tutoring | 15-30 | Requires Finanzamt registration |
 
 **Tip for Pakistani students:** Werkstudent positions in IT, engineering, and data science are abundant in cities like Berlin, Munich, and Hamburg. They pay well, provide relevant work experience, and many employers sponsor work visas after graduation.
@@ -392,8 +392,8 @@ After graduating from a German university, you are legally entitled to an **18-m
 
 Once you find a qualified job matching your degree, you can apply for an [EU Blue Card](/blog/germany-blue-card-guide-pakistanis/). In 2026, the salary thresholds are:
 
-- **Standard professions:** EUR 46,530/year
-- **Shortage occupations** (IT, engineering, science, medicine): EUR 41,042/year
+- **Standard professions:** EUR 50,700/year
+- **Shortage occupations** (IT, engineering, science, medicine): EUR 45,934.20/year
 
 The Blue Card is the fastest path to permanent residency - you can apply after just 21 months with B1 German or 27 months without.
 

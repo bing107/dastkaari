@@ -8,7 +8,7 @@ categories: ["Settling In"]
 pillars: ["Settling In"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -42,19 +42,19 @@ Public health insurance is what most Pakistani expats in Germany will use, espec
 
 Public health insurance contributions are based on your gross salary, split between you and your employer:
 
-- **Total contribution rate:** 14.6% of gross salary + an additional surcharge (*Zusatzbeitrag*) set by each insurer (typically 1.5%–2.5% in 2026)
+- **Total contribution rate:** 14.6% of gross salary + an additional surcharge (*Zusatzbeitrag*) set by each insurer (the average is about 2.9% in 2026, with most funds in the 2%–4% range)
 - **Your share:** Roughly half - about 7.3% + half the surcharge
 - **Employer's share:** The other half
 
-Your contribution is capped at the **Beitragsbemessungsgrenze** (contribution ceiling). In 2026, this is **EUR 66,150 per year** (EUR 5,512.50/month). If you earn more than this, you still only pay contributions on that ceiling amount.
+Your contribution is capped at the **Beitragsbemessungsgrenze** (contribution ceiling). In 2026, this is **EUR 69,750 per year** (EUR 5,812.50/month). If you earn more than this, you still only pay contributions on that ceiling amount.
 
-**Example:** If your gross salary is EUR 55,000/year and your insurer charges a 1.7% surcharge:
-- Total rate: 14.6% + 1.7% = 16.3%
-- Your share: ~8.15% of EUR 55,000 = approx. EUR 4,483/year or **EUR 374/month**
+**Example:** If your gross salary is EUR 55,000/year and your insurer charges the average 2.9% surcharge:
+- Total rate: 14.6% + 2.9% = 17.5%
+- Your share: ~8.75% of EUR 55,000 = approx. EUR 4,813/year or **EUR 401/month**
 - Your employer pays the same amount
 
 Additionally, there are mandatory contributions for:
-- **Nursing care insurance (*Pflegeversicherung*):** 3.4% (higher if you have no children: 4.0%), split between employee and employer
+- **Nursing care insurance (*Pflegeversicherung*):** 3.6% (higher if you have no children: 4.2%), split between employee and employer
 - These are automatically deducted alongside your health insurance
 
 ### What Public Insurance Covers
@@ -113,7 +113,7 @@ For most Pakistani expats, **TK** is the go-to choice because of their English s
 
 One of the biggest advantages of public insurance is **free family coverage**. Your spouse and children can be insured under your policy at no additional cost, provided:
 
-- Your spouse earns less than EUR 535/month (or EUR 556.25 from a *Minijob*)
+- Your spouse earns less than EUR 570/month (or EUR 603 from a *Minijob*)
 - Your spouse is not eligible for private insurance
 - Your children are under 25 (or under 23 if not in education/training)
 
@@ -129,11 +129,11 @@ Private health insurance is an alternative to the public system. It operates on 
 
 You can opt for private insurance if:
 
-1. **Your gross salary exceeds the *Versicherungspflichtgrenze* (compulsory insurance threshold):** In 2026, this is **EUR 73,800/year** (EUR 6,150/month). If you earn above this for at least one calendar year, you can switch to private.
+1. **Your gross salary exceeds the *Versicherungspflichtgrenze* (compulsory insurance threshold):** In 2026, this is **EUR 77,400/year** (EUR 6,450/month). If you earn above this for at least one calendar year, you can switch to private.
 2. **You are self-employed or a freelancer:** Regardless of income, self-employed people can choose private insurance from day one.
 3. **You are a civil servant (*Beamter*):** Not relevant for most Pakistani expats, but included for completeness.
 
-**Important:** If you are on a Blue Card or work visa and earn between EUR 45,300 and EUR 73,800, you **must** stay in public insurance. You do not have the choice to go private until your income crosses the threshold.
+**Important:** If you are on a Blue Card or work visa and earn between the Blue Card minimum (around EUR 45,934) and EUR 77,400, you **must** stay in public insurance. You do not have the choice to go private until your income crosses the threshold.
 
 ### How Private Insurance Premiums Work
 
@@ -193,7 +193,7 @@ A healthy 30-year-old might pay EUR 350–500/month for comprehensive private co
 
 | Factor | Public (GKV) | Private (PKV) |
 |--------|-------------|---------------|
-| **Eligibility** | Everyone (mandatory below EUR 73,800/year) | Salary > EUR 73,800/year, or self-employed |
+| **Eligibility** | Everyone (mandatory below EUR 77,400/year) | Salary > EUR 77,400/year, or self-employed |
 | **Premium basis** | Percentage of income (14.6% + surcharge) | Age, health, chosen plan |
 | **Typical monthly cost (single, EUR 55k salary)** | ~EUR 374 | EUR 350–500 |
 | **Employer contribution** | 50% of premium | 50% up to a cap (~EUR 421/month in 2026) |
@@ -214,7 +214,7 @@ For most Pakistani professionals arriving in Germany, **public insurance is the 
 ### Choose Public Insurance (GKV) If:
 
 - **You are bringing your family.** Free family coverage is worth thousands of euros per year. If your spouse is not working initially (common when relocating), this alone makes public insurance the clear winner.
-- **You are under the income threshold.** If you earn below EUR 73,800, you must stay in public insurance anyway - and this applies to most Blue Card holders in their first job.
+- **You are under the income threshold.** If you earn below EUR 77,400, you must stay in public insurance anyway - and this applies to most Blue Card holders in their first job.
 - **You value simplicity.** Public insurance means the doctor bills the insurer directly. No paperwork, no upfront payments, no claim submissions.
 - **You plan to stay in Germany long-term.** Public insurance premiums are predictable and do not spike as you age. This matters when you are planning to build a life here.
 - **You are not sure about your future plans.** Switching from public to private is easy. Switching back is very hard. Keep your options open.
@@ -319,7 +319,7 @@ Many Pakistani expats send money home regularly. When budgeting for your insuran
 
 ### Public to Private
 
-You can switch to private insurance if your income exceeds EUR 73,800/year for at least one calendar year. You must notify your public insurer in writing that you are leaving. There is typically a notice period of two full calendar months.
+You can switch to private insurance if your income exceeds EUR 77,400/year for at least one calendar year. You must notify your public insurer in writing that you are leaving. There is typically a notice period of two full calendar months.
 
 ### Private to Public
 

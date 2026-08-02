@@ -8,7 +8,7 @@ categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: false
 showTOC: true
 ---
@@ -135,10 +135,10 @@ Your income tax rate depends on your **tax class (Steuerklasse)** and total earn
 
 | Taxable Income (Annual) | Tax Rate |
 |------------------------:|----------|
-| Up to €11,784 | 0% (tax-free allowance) |
-| €11,785–€17,005 | 14–24% |
-| €17,006–€66,760 | 24–42% |
-| €66,761–€277,825 | 42% |
+| Up to €12,348 | 0% (tax-free allowance) |
+| €12,349–€17,443 | 14–24% |
+| €17,444–€69,878 | 24–42% |
+| €69,879–€277,825 | 42% |
 | Above €277,826 | 45% |
 
 Plus a **solidarity surcharge (Solidaritätszuschlag)** of 5.5% on your income tax (only applies to higher earners as of 2021 reforms) and **church tax (Kirchensteuer)** of 8–9% on your income tax - but only if you are registered with a church. Most Pakistani professionals are Muslim and will not pay church tax. Make sure to indicate "no religious affiliation" (*keine Konfession*) when doing your Anmeldung (residence registration).

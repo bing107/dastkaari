@@ -8,7 +8,7 @@ categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: false
 showTOC: true
 ---
@@ -148,7 +148,7 @@ Salary negotiation in Germany follows conventions that differ from both Pakistan
 **How to answer:**
 - Give a range, not a single number. For example: "Based on my research and experience level, I am looking at a range of €58,000 to €65,000 gross per year."
 - Base your range on market data, not your previous salary in Pakistan. German employers do not expect (and legally should not demand) your previous salary.
-- If you are on a Blue Card, be aware of the minimum salary threshold. For 2026, the general threshold is approximately €45,300 and the shortage occupation threshold is approximately €41,042. Your salary must meet the applicable threshold for your Blue Card to be issued.
+- If you are on a Blue Card, be aware of the minimum salary threshold. For 2026, the general threshold is approximately €50,700 and the shortage occupation threshold is approximately €45,934. Your salary must meet the applicable threshold for your Blue Card to be issued.
 
 **What is negotiable beyond base salary:**
 - Bonus structure

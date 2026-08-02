@@ -8,7 +8,7 @@ categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -310,7 +310,7 @@ Once you hold the Niederlassungserlaubnis, your life in Germany changes signific
 
 - **Unemployment benefits** (Arbeitslosengeld I and II/Bürgergeld) if you lose your job
 - **Parental allowance** (*Elterngeld*) when you have children
-- **Child benefits** (*Kindergeld*) - EUR 250 per child per month
+- **Child benefits** (*Kindergeld*) - EUR 259 per child per month (2026)
 - **Pension rights** - your contributions continue building your retirement
 - **Public healthcare** remains fully accessible
 

@@ -8,7 +8,7 @@ categories: ["Settling In"]
 pillars: ["Settling In"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -136,7 +136,7 @@ Here is what to bring for the most common scenarios:
 ### Additional Documents by Permit Type
 
 **Blue Card application/extension:**
-- [ ] Employment contract showing salary meets the threshold (EUR 45,300 general / EUR 41,042 for shortage occupations as of 2026 - verify current thresholds)
+- [ ] Employment contract showing salary meets the threshold (EUR 50,700 general / EUR 45,934 for shortage occupations as of 2026 - verify current thresholds)
 - [ ] University degree recognition (anabin printout showing H+ status, or ZAB recognition certificate)
 - [ ] Latest salary slips (3 months)
 

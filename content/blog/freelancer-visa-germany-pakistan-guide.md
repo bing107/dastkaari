@@ -8,7 +8,7 @@ categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -295,7 +295,7 @@ This is your primary tax. You pay income tax on your **profit** (revenue minus b
 
 You file an annual tax return (*Einkommensteuererklärung*) and may need to make quarterly advance payments (*Vorauszahlungen*) once the Finanzamt estimates your income.
 
-**Solidarity surcharge (*Solidaritätszuschlag*):** 5.5% of your income tax, but only applies if your income tax exceeds approximately EUR 18,130 (single) or EUR 36,260 (married).
+**Solidarity surcharge (*Solidaritätszuschlag*):** 5.5% of your income tax, but since 2021 it only applies to higher earners - roughly above EUR 75,000 gross annual income for a single person (the exemption threshold rises each year, so check the current *Freigrenze*).
 
 ### 2. VAT (*Umsatzsteuer*)
 
@@ -342,9 +342,9 @@ Here is how the three main work-related visa options compare for Pakistani profe
 | Feature | Freelancer Visa | EU Blue Card | Employment Visa |
 |---|---|---|---|
 | **Employer required?** | No - you work for yourself | Yes - need a job contract | Yes - need a job contract |
-| **Minimum salary** | No fixed minimum (must show sustainability) | EUR 45,300/year (EUR 41,042 for shortage occupations) | No fixed minimum |
+| **Minimum salary** | No fixed minimum (must show sustainability) | EUR 50,700/year (EUR 45,934 for shortage occupations) | No fixed minimum |
 | **Degree required?** | Not always (but helps) | Yes - recognized university degree | Depends on the role |
-| **Permanent residency** | After 5 years (3 with B1 German) | After 33 months (21 with B1 German) | After 4-5 years |
+| **Permanent residency** | After 5 years (3 with B1 German) | After 27 months (21 with B1 German) | After 4-5 years |
 | **Family reunification** | Yes (spouse can work) | Yes (spouse can work immediately) | Yes (conditions apply) |
 | **Can change employer?** | N/A - you choose your clients | First 2 years need approval | Need approval |
 | **Best for** | IT consultants, designers, translators, independent professionals | Highly qualified employees | All employed workers |

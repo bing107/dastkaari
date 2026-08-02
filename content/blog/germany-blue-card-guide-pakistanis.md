@@ -8,7 +8,7 @@ categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "2026-03-09"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -23,7 +23,7 @@ The EU Blue Card (*Blaue Karte EU*) is a work and residence permit for highly qu
 
 ### Key Benefits
 
-- **Fast-track to permanent residency:** 33 months (or 21 months with B1 German)
+- **Fast-track to permanent residency:** 27 months with A1 German (or 21 months with B1 German)
 - **Family reunification:** Your spouse can work immediately, no German required
 - **EU mobility:** After 18 months, you can move to another EU country
 - **No labor market test:** Your employer does not need to prove no EU citizen could do the job
@@ -37,8 +37,8 @@ To qualify for a German Blue Card, you need:
 2. **A job offer or employment contract** - You need a binding job offer from a German employer that matches your qualifications.
 
 3. **Minimum salary threshold (2026):**
-   - **Standard professions:** EUR 45,300 gross per year
-   - **Shortage occupations** (IT, engineering, medicine, natural sciences): EUR 41,041.80 gross per year
+   - **Standard professions:** EUR 50,700 gross per year
+   - **Shortage occupations** (IT, engineering, medicine, natural sciences) and recent graduates (degree within the last 3 years): EUR 45,934.20 gross per year
 
 > **Note for Pakistani IT professionals:** Software development, data science, and IT security roles typically qualify as shortage occupations, meaning you benefit from the lower salary threshold.
 

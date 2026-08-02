@@ -8,7 +8,7 @@ categories: ["Settling In"]
 pillars: ["Settling In"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: false
 showTOC: true
 ---
@@ -324,7 +324,7 @@ For your first year in Germany, strongly consider hiring a Steuerberater. The co
 
 ### Kindergeld-Antrag (Child Benefit Application)
 
-If you have children, apply for Kindergeld through the Familienkasse (part of the Agentur für Arbeit). As of 2026, Kindergeld is EUR 250 per child per month. You need:
+If you have children, apply for Kindergeld through the Familienkasse (part of the Agentur für Arbeit). As of 2026, Kindergeld is EUR 259 per child per month. You need:
 
 - Birth certificates of children (with certified translation)
 - Your residence permit (must allow employment)

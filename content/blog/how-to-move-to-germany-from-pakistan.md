@@ -8,7 +8,7 @@ categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -52,9 +52,9 @@ Germany offers several visa routes for Pakistani nationals. The right one depend
 
 | Visa Type | Who It's For | Key Requirements | Processing Time | Cost | Work Rights | Path to PR |
 |-----------|-------------|------------------|-----------------|------|-------------|------------|
-| **[EU Blue Card](/blog/germany-blue-card-guide-pakistanis/)** | Skilled workers with a job offer | Recognized degree + job offer meeting salary threshold (€45,300 or €41,042 for shortage occupations in 2026) | 4-12 weeks | €75 visa + €100 permit | Full, employer-specific initially | 21 months (B1 German) or 33 months (A1) |
+| **[EU Blue Card](/blog/germany-blue-card-guide-pakistanis/)** | Skilled workers with a job offer | Recognized degree + job offer meeting salary threshold (€50,700 or €45,934 for shortage occupations in 2026) | 4-12 weeks | €75 visa + €100 permit | Full, employer-specific initially | 21 months (B1 German) or 27 months (A1) |
 | **[Chancenkarte](/blog/chancenkarte-opportunity-card-germany-pakistan/)** | Qualified professionals seeking jobs | Points-based: degree, experience, age, language, German connection (need 6+ points) | 4-8 weeks | €75 visa + €100 permit | Side jobs up to 20 hrs/week, trial work | Convert to work permit once employed |
-| **[Job Seeker Visa](/blog/germany-job-seeker-visa-pakistan/)** | Professionals looking for work | Recognized degree + financial means (~€11,208 in blocked account) | 4-12 weeks | €75 | Limited (no full-time work) | Convert to work permit once employed |
+| **[Job Seeker Visa](/blog/germany-job-seeker-visa-pakistan/)** | Professionals looking for work | Recognized degree + financial means (blocked account, ~€1,091/month; confirm current figure) | 4-12 weeks | €75 | Limited (no full-time work) | Convert to work permit once employed |
 | **[Student Visa](/blog/germany-student-visa-pakistan-guide/)** | University applicants | University admission + [blocked account](/blog/blocked-account-germany-pakistan-fintiba-expatrio/) (~€11,904/year) + health insurance | 6-12 weeks | €75 | 120 full days or 240 half days/year | Via post-graduation work permit |
 | **[Freelancer Visa](/blog/freelancer-visa-germany-pakistan-guide/)** | Self-employed professionals | Business plan + client letters + financial proof | 4-12 weeks | €75 visa + €100 permit | Self-employment only (in approved field) | 5 years (standard route) |
 | **[Family Reunification](/blog/family-reunification-visa-germany-pakistan/)** | Spouses/children of residents | Sponsor in Germany + basic German (A1 for spouses) + financial proof | 8-16 weeks | €75 | Full work rights (for spouses) | Through sponsor's status |
@@ -241,7 +241,7 @@ Germany rewards those who commit to building a life here with a clear path to pe
 
 Permanent residency gives you the right to live and work in Germany indefinitely, with no restrictions. The timeline depends on your visa type:
 
-- **Blue Card holders:** 21 months (with B1 German) or 33 months (with A1 German) - the fastest route
+- **Blue Card holders:** 21 months (with B1 German) or 27 months (with A1 German) - the fastest route
 - **Other work permit holders:** Generally 5 years of continuous residence
 - **Students:** Time on a student visa counts partially toward the requirement
 - **Freelancers:** 5 years with consistent income

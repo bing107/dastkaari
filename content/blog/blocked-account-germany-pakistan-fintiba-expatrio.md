@@ -8,7 +8,7 @@ categories: ["Immigration & Visas", "Settling In"]
 pillars: ["Immigration & Visas", "Settling In"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---

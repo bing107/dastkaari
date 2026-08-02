@@ -8,7 +8,7 @@ categories: ["Settling In"]
 pillars: ["Settling In"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -51,7 +51,7 @@ Your first priority after arriving is simply getting to your accommodation and r
 
 - **Download essential apps:** Google Maps (offline maps for your city), DB Navigator (train schedules), the local public transport app for your city (BVG for Berlin, MVV for Munich, RMV for Frankfurt, HVV for Hamburg), and DeepL or Google Translate.
 
-- **Get a public transport ticket.** Most German cities offer monthly passes (*Monatskarte*). Since 2023, the **Deutschlandticket** (EUR 49/month as of early 2026) covers all local and regional public transport across the entire country. It is incredible value. You can buy it through the DB Navigator app or your local transport app. Make sure to check the current price as it has been subject to adjustments.
+- **Get a public transport ticket.** Most German cities offer monthly passes (*Monatskarte*). Since 2023, the **Deutschlandticket** (EUR 63/month as of January 2026) covers all local and regional public transport across the entire country. It is incredible value. You can buy it through the DB Navigator app or your local transport app. Make sure to check the current price as it has been subject to adjustments.
 
 ### Day 2-3: City Registration (Anmeldung) - Do Not Delay This
 

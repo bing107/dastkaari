@@ -8,7 +8,7 @@ categories: ["Immigration & Visas"]
 pillars: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---

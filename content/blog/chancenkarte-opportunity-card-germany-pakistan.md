@@ -7,7 +7,7 @@ tags: ["Chancenkarte", "Opportunity Card", "Germany Visa", "Pakistan", "Immigrat
 categories: ["Immigration & Visas"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 keywords: ["chancenkarte germany pakistan", "opportunity card germany", "germany points based visa pakistan", "chancenkarte points system"]
@@ -296,12 +296,12 @@ The 2-week trial employment provision is unique to the Chancenkarte and extremel
 This is the most important part: the Chancenkarte is your entry ticket, but your goal is to convert it into a long-term work permit. Here is how:
 
 ### Path 1: EU Blue Card
-If you have a **university degree** and find a job with a salary meeting the [Blue Card threshold](/blog/germany-blue-card-guide-pakistanis/) (EUR 46,530/year in 2025 for shortage occupations, slightly higher for others --- check current figures):
+If you have a **university degree** and find a job with a salary meeting the [Blue Card threshold](/blog/germany-blue-card-guide-pakistanis/) (EUR 45,934.20/year in 2026 for shortage occupations, EUR 50,700 for standard professions --- check current figures):
 1. Get a signed employment contract from your German employer
 2. Visit your local Auslaenderbehorde (immigration office)
 3. Apply to switch from Chancenkarte to EU Blue Card
 4. Processing takes 1-3 months
-5. The Blue Card allows you to apply for permanent residency after just **21 months** (with B1 German) or **33 months** (without B1)
+5. The Blue Card allows you to apply for permanent residency after just **21 months** (with B1 German) or **27 months** (without B1)
 
 ### Path 2: Skilled Worker Visa (Fachkraefteeinwanderung)
 If you have **vocational training** or a job that does not meet Blue Card salary thresholds:
@@ -369,7 +369,7 @@ Do not wait until you land in Germany to start job hunting. Begin applying on pl
 ### 6. Budget Realistically
 Beyond the blocked account (which you get back monthly), budget for:
 - First 2-3 months of rent (EUR 400-800/month depending on city)
-- Public transport pass (EUR 49/month with Deutschlandticket)
+- Public transport pass (EUR 63/month with Deutschlandticket)
 - Health insurance (EUR 100-200/month for travel insurance initially)
 - Living expenses (EUR 400-600/month for food and basics)
 

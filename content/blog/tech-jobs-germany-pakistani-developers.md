@@ -8,7 +8,7 @@ categories: ["Career & Jobs"]
 pillars: ["Career & Jobs"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: false
 showTOC: true
 ---
@@ -315,7 +315,7 @@ This means self-taught developers, bootcamp graduates, and those with diplomas o
 ### Path to Permanent Residency
 
 - **21 months** with B1 German language skills
-- **33 months** without German language skills
+- **27 months** with A1 German language skills
 
 For a complete walkthrough of the Blue Card application process, required documents, and tips, read our [EU Blue Card Guide for Pakistanis](/blog/germany-blue-card-guide-pakistanis/).
 

@@ -8,7 +8,7 @@ categories: ["Real Estate & Investment"]
 pillars: ["Real Estate & Investment"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -318,9 +318,9 @@ Rental income (Mieteinnahmen) is taxed as regular income in Germany. You must de
 
 **Tax rates for 2026:**
 
-- Income up to EUR 11,784: 0% (tax-free allowance)
-- EUR 11,785 - EUR 62,810: 14% to 42% (progressive)
-- EUR 62,811 - EUR 277,825: 42%
+- Income up to EUR 12,348: 0% (tax-free allowance)
+- EUR 12,349 - EUR 69,878: 14% to 42% (progressive)
+- EUR 69,879 - EUR 277,825: 42%
 - Above EUR 277,826: 45%
 
 **Deductions you can claim:**

@@ -8,7 +8,7 @@ categories: ["Settling In"]
 pillars: ["Settling In"]
 draft: false
 author: "Dastkaari"
-lastVerified: "March 2026"
+lastVerified: "2026-08-02"
 showDisclaimer: true
 showTOC: true
 ---
@@ -436,7 +436,7 @@ Many Pakistanis compare German salaries to Gulf countries (UAE, Saudi Arabia) wh
 | Pension | Included - you receive German pension later | No state pension |
 | Unemployment protection | Included - up to 12 months of benefits if you lose your job | None |
 | Kindergeld | €259/month per child | None |
-| Path to permanent residency | Yes, after 21–33 months (Blue Card) | Very difficult |
+| Path to permanent residency | Yes, after 21–27 months (Blue Card) | Very difficult |
 | Path to citizenship | Yes, after 5–8 years | Nearly impossible |
 
 The higher deductions in Germany buy you **social security, healthcare, pension rights, and a path to permanent settlement.** Your net salary is lower, but your total compensation - including benefits and long-term security - is often comparable or better.
